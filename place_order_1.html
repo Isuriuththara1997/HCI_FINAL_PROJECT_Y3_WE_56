@@ -17,6 +17,8 @@
 
 <link href="isuri_stylesheet/header&footer.css" rel="stylesheet" type="text/css">
 
+<link href="isuri_stylesheet/login.css" rel="stylesheet" type="text/css">
+
 <title>Shopping Cart</title>
 </head>
 <body>
@@ -59,7 +61,7 @@
                  <a href="#news">Personal Styling</a>
                   <a href="#news">Sales</a>
 
-                  <a href="place_order_1.html"><i class="fa fa-fw fa-shopping-cart"></i>Shopping</a>
+                  <a href="#news"><i class="fa fa-fw fa-shopping-cart"></i>Shopping</a>
                    <form style="float:right;display:inline-block;line-height:60px;padding-right:14px;">
                   				<input type="text" name="searchbar" placeholder="What are you looking for?" size="25">
                           
@@ -72,10 +74,24 @@
 <br>
 <div class="row1">
 <div class="column1">
-<label for="fname">Returning Customer? <a href="#">Click Here to Login</a></label>
+<label for="fname">Returning Customer? <a href="#" class="open-button" onclick="openForm()">Click Here to Login</a></label>
+<div class="form-popup" id="myForm">
+  <form action="/action_page.php" class="form-container">
+    <h1>Login</h1>
+
+    <label for="email"><b>Email</b></label>
+    <input type="text" placeholder="Enter Email" name="email" required>
+
+    <label for="psw"><b>Password</b></label>
+    <input type="password" placeholder="Enter Password" name="psw" required>
+
+    <button type="submit" class="btn" formaction="place_order_1.html">Login</button>
+    <button type="button" class="btn cancel" onclick="closeForm()">Close</button>
+  </form>
+</div>
 </div>
 <div class="column1">
-<label for="fname">Have a Coupon? <a href="coupn.html">Click Here to See Your Promo Code</a></p></label>
+<label for="fname">Have a Coupon? <a href="coupn.html">Click Here to Enter Code</a></p></label>
 </div>
 </div>
 
@@ -187,6 +203,15 @@
 
 </footer>
 
+<script>
+function openForm() {
+  document.getElementById("myForm").style.display = "block";
+}
+
+function closeForm() {
+  document.getElementById("myForm").style.display = "none";
+}
+</script>
 
  
 </body>
