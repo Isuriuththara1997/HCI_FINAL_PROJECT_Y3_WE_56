@@ -1,0 +1,36 @@
+.coupon {
+  border: 5px dotted #bbb;
+  width: 80%;
+  border-radius: 15px;
+  margin: 0 auto;
+  max-width: 600px;
+}
+
+.logo_container_coupn {
+  padding: 2px 210px;
+  background-color: black;
+    color: #FF69B4;
+  height: 100%;
+  display: table-cell;
+  vertical-align: middle;
+  font:normal 20px 'Cookie', cursive;
+  font-weight: 600;
+}
+.logo_container_coupn h1 span{
+  	color:  #FF1493;
+  	font:normal 40px 'Cookie', cursive;
+  	margin: 0;
+    font-weight: 800;
+}
+.promo {
+  background: #ffab00;
+  padding: 3px;
+}
+
+.expire {
+  color: red;
+}
+.logo_container_coupn_code {
+  padding: 2px 16px;
+  background-color: #f1f1f1;
+}
