@@ -31,15 +31,15 @@
 			justify-content: space-around;
 		}
 		section div{
-			width: 22%;
-			height: 93%;
+			width: 16%;
+			height: 100%;
 			background:#f5f5f5;
 			padding: 1%;
 			position: relative;
 		}
 		img{
-			width: 300px;
-			height: 186px;
+			width: 220px;
+			height: 310px;
 		}
 
 		p{
