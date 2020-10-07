@@ -17,21 +17,20 @@
 
 <link href="isuri_stylesheet/header&footer.css" rel="stylesheet" type="text/css">
 
+<link href="isuri_stylesheet/login.css" rel="stylesheet" type="text/css">
+
 <title>Shopping Cart</title>
 </head>
 <body>
+
+    
 <div class="navbar">
 <div class="logo_container">
       <h1>Femmie&<span>Fierce</span></h1>
     </div>
  <a  href="#home"><i class="fa fa-fw fa-home"></i>Home</a>
   <div class="dropdown">
-<<<<<<< HEAD
-<<<<<<< HEAD
-<button class="dropbtn">Categories
-=======
 <button class="dropbtn">Categories 
->>>>>>> 6eb4149093c45fb73349219abf022ef60fa15ce9
       <i class="fa fa-caret-down"></i>
     </button>
     <div class="dropdown-content">
@@ -44,15 +43,9 @@
       <a href="#">Tops and Tees</a>
       <a href="#">Blouse</a>
     </div>
-<<<<<<< HEAD
-  </div>
-    <div class="dropdown">
-<button class="dropbtn">Collection
-=======
   </div> 
     <div class="dropdown">
 <button class="dropbtn">Collection 
->>>>>>> 6eb4149093c45fb73349219abf022ef60fa15ce9
       <i class="fa fa-caret-down"></i>
     </button>
 
@@ -62,40 +55,6 @@
       <a href="#">Summer</a>
       <a href="#">Spring</a>
     </div>
-<<<<<<< HEAD
-  </div>
-
-                <a href="#news">Journal</a>
-                 <a href="#news">Personal Styling</a>
-                  <a href="#news">Sales</a>
-                  <a href="#news"><i class="fa fa-fw fa-envelope"></i>Contact</a>
-                  <a href="#news"><i class="fa fa-fw fa-user"></i>About</a>
-                  <a href="#news"><i class="fa fa-fw fa-shopping-cart"></i>Shopping</a>
-=======
-<button class="dropbtn">Collection
-    <i class="fa fa-caret-down"></i>
-  </button>
-
-  <div class="dropdown-content">
-     <a href="#">FAll -2018</a>
-    <a href="#">FAll -2019</a>
-    <a href="#">Summer</a>
-    <a href="#">Spring</a>
-  </div>
-</div>
-
-              <a href="#news">Journal</a>
-               <a href="#news">Personal Styling</a>
-                <a href="#news">Sales</a>
-                <a href="#news"><i class="fa fa-fw fa-envelope"></i>Contact</a>
-                <a href="#news"><i class="fa fa-fw fa-user"></i>About</a>
-                <a href="#news"><i class="fa fa-fw fa-shopping-cart"></i>Shopping</a>
-
-                <form style="float:right;line-height:60px;padding-right:14px;">
-                        <input type="text" name="searchbar" placeholder="What are you looking for?" size="25">
-                        <button type="submit"><i class="fa fa-search"></i></button>
-                      </form>
-=======
   </div> 
  
                 <a href="#news">Journal</a>
@@ -110,41 +69,62 @@
       
 </div>
 
->>>>>>> 6eb4149093c45fb73349219abf022ef60fa15ce9
 
->>>>>>> f3d117ef941d0856bfa980c7f4a019f23d927c75
 
+<br>
+<div class="row1">
+<div class="column1">
+<label for="fname">Returning Customer? <a href="#" class="open-button" onclick="openForm()">Click Here to Login</a></label>
+<div class="form-popup" id="myForm">
+  <form action="/action_page.php" class="form-container">
+    <h1>Login</h1>
+
+    <label for="email"><b>Email</b></label>
+    <input type="text" placeholder="Enter Email" name="email" required>
+
+    <label for="psw"><b>Password</b></label>
+    <input type="password" placeholder="Enter Password" name="psw" required>
+
+    <button type="submit" class="btn" formaction="place_order_1.html">Login</button>
+    <button type="button" class="btn cancel" onclick="closeForm()">Close</button>
+  </form>
+</div>
+</div>
+<div class="column1">
+<label for="fname">Have a Coupon? <a href="coupn.html">Click Here to Enter Code</a></p></label>
+</div>
+</div>
 
 <br><br>
 <div class="row">
   <div class="col-75">
     <div class="container">
       <form action="/action_page.php">
-
+      
         <div class="row">
           <div class="col-50">
             <h3>Billing Address</h3>
             <label for="fname"><i class="fa fa-user"></i> Full Name</label>
-            <div class="a">Isuri Uththara</div>
+            <input type="text" id="fname" name="firstname" placeholder="Ex:- Isuri Uththara">
             <label for="email"><i class="fa fa-envelope"></i> Email</label>
-            <div class="a">isuriuththara@gmail.com.com</div>
+            <input type="text" id="email" name="email" placeholder="Ex:- isuri@abcd.com">
                        
                         <label for="email"><i class="fa fa-mobile"></i> Contact Number</label>
-            			<div class="a">0712345678</div>
+            			<input type="text" id="number" name="number" placeholder="Ex:- 0712345678">
             
             <label for="adr"><i class="fa fa-address-card-o"></i> Address</label>
-            <div class="a">139/A/1, Ruwanpura, Palanwaththa, Pannipitiya</div>
+            <input type="text" id="adr" name="address" placeholder="Ex:- 1234/A abcd rd colombo">
             <label for="city"><i class="fa fa-institution"></i> City</label>
-            <div class="a">Sri Lanka</div>
+            <input type="text" id="city" name="city" placeholder="Ex:- Sri Lanka">
 
             <div class="row">
               <div class="col-50">
                 <label for="state">State</label>
-                <div class="a">SL</div>
+                <input type="text" id="state" name="state" placeholder="Ex:- SL">
               </div>
               <div class="col-50">
                 <label for="zip">Zip</label>
-                <div class="a">1024</div>
+                <input type="text" id="zip" name="zip" placeholder="Ex:- 00000">
               </div>
             </div>
           </div>
@@ -158,55 +138,41 @@
 			
          
             <label for="fname"><input type="radio" name="gender" value="male"> Cash
-            <input type="radio" name="gender" value="female" checked="check"> Card </label>
+            <input type="radio" name="gender" value="female"> Card </label>
             <div class="icon-container">
             Accepted Cards
               <i class="fa fa-cc-visa" style="color:navy;"></i>
               <i class="fa fa-cc-mastercard" style="color:red;"></i>
             </div>
             <label for="cname">Name on Card</label>
-            <div class="a">Isuri Uththara</div>
+            <input type="text" id="cname" name="cardname" placeholder="Ex:- Isuri Uththara">
             <label for="ccnum">Credit card number</label>
-            <div class="a">1234-5678-9101-1121</div>
+            <input type="text" id="ccnum" name="cardnumber" placeholder="Ex:- 1111-1111-1111-1111">
             <label for="expmonth">Exp Month</label>
-            <div class="a">January</div>
+            <input type="text" id="expmonth" name="expmonth" placeholder="Ex:-January">
             <div class="row">
               <div class="col-50">
                 <label for="expyear">Exp Year</label>
-                <div class="a">2021</div>
+                <input type="text" id="expyear" name="expyear" placeholder="Ex:- YYYY">
               </div>
               <div class="col-50">
                 <label for="cvv">CVV</label>
-                <div class="a">072</div>
+                <input type="text" id="cvv" name="cvv" placeholder="Ex:- 123">
               </div>
             </div>
           </div>
-
+          
         </div>
-
+        <label>
+          <input type="checkbox" check="check" name="sameadr"> I have read and agree to the website terms and conditions.
+        </label>
+			<input type="submit" value="Place Order" class="btn" formaction="place_order.html">
       </form>
     </div>
   </div>
-  <div class="col-25">
-    <div class="container">
-    <h3>Your Order Detail Summary</h3>
-      <h4>Item Code <span class="price" style="color:black"><i class="fa fa-shopping-cart"></i> <b>Price</b></span></h4>
-      <p><a href="#">N_0001</a> <span class="price">Rs.1500</span></p>
-      <p><a href="#">F_0001</a> <span class="price">Rs.2500</span></p>
-      <p><a href="#">S_0001</a> <span class="price">Rs.1400</span></p>
-      <p><a href="#">J_0001</a> <span class="price">Rs.1200</span></p>
-      <p><a href="#">P_0001</a> <span class="price">Rs.2500</span></p>
-      <p><a href="#">K_0001</a> <span class="price">Rs.1400</span></p>
-      <p><a href="#">T_0001</a> <span class="price">Rs.2500</span></p>
-      <p><a href="#">B_0001</a> <span class="price">Rs.2400</span></p>
-      <hr>
-      <p>Total <span class="price" style="color:black"><b>Rs.15400</b></span></p>
-    </div>
-	<form>
-    <input type="submit" value="FeedBack" class="btn" formaction="feedback.html">
-	</form>
-  </div>
+
 </div>
+
 <footer class="footer-distributed">
 
 
@@ -236,5 +202,17 @@
 
 
 </footer>
+
+<script>
+function openForm() {
+  document.getElementById("myForm").style.display = "block";
+}
+
+function closeForm() {
+  document.getElementById("myForm").style.display = "none";
+}
+</script>
+
+ 
 </body>
 </html>

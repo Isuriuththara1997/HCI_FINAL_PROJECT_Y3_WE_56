@@ -1,4 +1,4 @@
-body {
+body2 {
   font-family: Arial;
   font-size: 17px;
   padding: 8px;
@@ -74,7 +74,7 @@ label {
 }
 
 .btn {
-  background-color: #DFA10D;
+  background-color: #ffab00;
   color: white;
   padding: 12px;
   margin: 10px 0;
@@ -86,7 +86,7 @@ label {
 }
 
 .btn:hover {
-  background-color: #DFA10D;
+  background-color: #ffab00;
 }
 
 a {
@@ -136,4 +136,13 @@ span.price {
   content: "";
   clear: both;
   display: table;
+}
+.a {
+	width: 100%;
+  margin-bottom: 20px;
+  padding: 12px;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+	
+  background-color: #EBF5FB ;
 }
