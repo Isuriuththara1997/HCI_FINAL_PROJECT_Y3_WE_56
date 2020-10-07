@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="../styles/single_collection.css" />
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+      integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
+      crossorigin="anonymous"
+    />
+    <script
+      src="https://code.jquery.com/jquery-3.4.1.slim.min.js"
+      integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://code.jquery.com/jquery-3.5.1.min.js"
+      integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+      integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+      integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6"
+      crossorigin="anonymous"
+    ></script>
+    <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
+    <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+
+    <script>
+      $(document).ready(function () {
+        $("a").click(function () {
+          var largeImage = $(this).attr("data-full");
+          $(".selected").removeClass();
+          $(this).addClass("selected");
+          $(".full img").hide();
+          $(".full img").attr("src", largeImage);
+          $(".full img").fadeIn();
+        });
+
+        $(".full img").on("click", function () {
+          var modalImage = $(this).attr("src");
+          $.fancybox.open(modalImage);
+        });
+      });
+    </script>
+
+    <script src="../js/single_collection.js"></script>
+
+    <title>single collection</title>
+  </head>
+  <body>
+    <div class="container" style="max-width: 1260px">
+      <div class="row" style="margin-top: 15px">
+        <div class="col-6">
+          <div class="row">
+            <div class="col-6">
+              <div class="previews">
+                <div class="full">
+                  <img
+                    src="../assets/sss1.webp"
+                    class="selected bigItem"
+                    alt="image"
+                    style="display: inline; width: 138%; height: 567px"
+                  />
+                </div>
+              </div>
+            </div>
+            <div class="col-3" style="left: 88px">
+              <div>
+                <div class="raw">
+                  <a href="#" data-full="../assets/sss2.webp" class=""
+                    ><img
+                      src="../assets/sss2.webp"
+                      class="img-fluid smallItem smallItem1"
+                      alt="image"
+                  /></a>
+                  <a href="#" data-full="../assets/sss3.webp" class=""
+                    ><img
+                      src="../assets/sss3.webp"
+                      class="img-fluid smallItem smallItem1"
+                      alt="image"
+                  /></a>
+                  <a href="#" data-full="../assets/sss4.webp" class="selected"
+                    ><img
+                      src="../assets/sss4.webp"
+                      class="img-fluid smallItem"
+                      alt="image"
+                  /></a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col-6" style="left: -20px">
+          <h4 class="title" style="font-weight: 600">
+            Women Black Printed Elasticated Waist Dress with Tassel Tie-Up
+          </h4>
+          <h4 class="price" style="margin-top: 25px">$45.00</h4>
+          <h6 class="description" style="margin-top: 25px">Description</h6>
+          <p class="more">
+            100% Original Products Free Delivery on order above Rs. 799 Pay on
+            delivery might be available Easy 30 days returns and exchanges Try &
+            Buy might be available. Black printed woven fit and flare dress, has
+            a tie-up neck, three-quarter sleeves, flared hem. marterial and care
+            is Polyester and Machine-wash
+          </p>
+          <div class="row row-cols-2" style="margin-top: 40px">
+            <div class="col">
+              <label class="cursor-pointer ng-star-inserted">
+                <h6>Select Size</h6>
+              </label>
+            </div>
+            <div class="col">
+              <label
+                class="cursor-pointer ng-star-inserted"
+                data-toggle="modal"
+                data-target="#exampleModal"
+                style="margin-left: -171px"
+              >
+                <h6>Size guide &gt;</h6>
+              </label>
+
+              <!-- Modal -->
+              <div
+                class="modal fade"
+                id="exampleModal"
+                tabindex="-1"
+                aria-labelledby="exampleModalLabel"
+                aria-hidden="true"
+              >
+                <div class="modal-dialog">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="exampleModalLabel">
+                        Size guide
+                      </h5>
+                      <button
+                        type="button"
+                        class="close"
+                        data-dismiss="modal"
+                        aria-label="Close"
+                      >
+                        <span aria-hidden="true">×</span>
+                      </button>
+                    </div>
+                    <div class="modal-body">
+                      <div>
+                        <img
+                          src="../assets/size_guide.png"
+                          class="img-fluid"
+                          alt="image"
+                        />
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="raw">
+            <div class="circle-btn">
+              <button class="btn">XS</button>
+              <button class="btn">S</button>
+              <button class="btn">M</button>
+              <button class="btn">L</button>
+              <button class="btn">XL</button>
+              <button class="btn">XXL</button>
+            </div>
+          </div>
+
+          <button
+            class="btn-change addToBag"
+            data-toggle="collapse"
+            data-target="#collapseExample"
+            aria-expanded="false"
+            aria-controls="collapseExample"
+            style="margin-top: 46px"
+          >
+            ADD TO BAG
+          </button>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
