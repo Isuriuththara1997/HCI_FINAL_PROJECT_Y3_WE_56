@@ -20,7 +20,7 @@
 .col1-border {
   border: 1px solid#e9e9ed;
   width: 100%;
-  height: 63% !important;
+  height: 60% !important;
   margin-top: 40px;
   margin-left: 20px;
 }
@@ -108,6 +108,10 @@ img {
   margin-top: 12px;
 }
 
+.btn-warning:hover {
+  background-color: black;
+}
+
 label>input[type="radio"] {
   display: none;
   margin-bottom: -0.5px;
@@ -147,9 +151,9 @@ label>input[type="radio"]+* {
   padding: 0rem;
 }
 
-.dropdown {
-  margin-left: 70px;
-  margin-top: 10px;
+.collection-below-dropdown .dropdown {
+  margin-left: 138px !important;
+  margin-top: 10px !important;
 }
 
 .card-img-top {
@@ -162,7 +166,7 @@ label>input[type="radio"]+* {
 }
 
 .card {
-  height: 405px !important;
+  height: 430px !important;
 }
 
 

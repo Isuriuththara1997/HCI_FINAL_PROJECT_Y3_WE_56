@@ -4,7 +4,7 @@ img {
 
 .content {
   position: absolute;
-  bottom: 95px;
+  bottom: 40px;
   background: rgb(0, 0, 0);
   /* Fallback color */
   background: rgba(0, 0, 0, 0.5);
