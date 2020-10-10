@@ -27,11 +27,160 @@
     ></script>
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
     <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+    <link
+      rel="stylesheet"
+      href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css"
+    />
+    <link
+      href="http://fonts.googleapis.com/css?family=Cookie"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link href="../styles/header_styles.css" rel="stylesheet" type="text/css" />
 
     <title>winter collection</title>
   </head>
   <body>
-    <div>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+      <a class="navbar-brand logo_container" href="#"
+        ><h1
+          style="
+            color: #ff69b4;
+            height: 100%;
+            display: table-cell;
+            vertical-align: middle;
+            font: normal 41px 'Cookie', cursive;
+            font-weight: 200;
+          "
+        >
+          Femmie&<span
+            style="
+              color: #ff1493;
+              font: normal 41px 'Cookie', cursive;
+              margin: 0;
+              font-weight: 800;
+            "
+            >Fierce</span
+          >
+        </h1>
+      </a>
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-toggle="collapse"
+        data-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto" style="font-size: 17px">
+          <li
+            class="nav-item active"
+            style="padding-top: 8px; padding-right: 14px; padding-left: 29px"
+          >
+            <i class="fa fa-fw fa-home" style="color: white"></i>
+            <a
+              style="display: inline; margin-left: -9px"
+              class="nav-link"
+              href="#"
+              >Home <span class="sr-only">(current)</span></a
+            >
+          </li>
+
+          <li class="nav-item dropdown" style="padding-right: 14px">
+            <a
+              class="nav-link dropdown-toggle"
+              href="#"
+              id="navbarDropdown"
+              role="button"
+              data-toggle="dropdown"
+              aria-haspopup="true"
+              aria-expanded="false"
+            >
+              Category
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="#">New Arrivals</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">Frock</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">Skirt</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">Jacket and Coat</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">Pants</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">Knitwear</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">Tops and Tees</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">Blouse</a>
+            </div>
+          </li>
+          <li class="nav-item dropdown" style="padding-right: 14px">
+            <a
+              class="nav-link dropdown-toggle"
+              href="#"
+              id="navbarDropdown"
+              role="button"
+              data-toggle="dropdown"
+              aria-haspopup="true"
+              aria-expanded="false"
+            >
+              Collection
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="./summer_collection.html"
+                >Summer Collection</a
+              >
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="./winter_collection.html"
+                >Winter Collection</a
+              >
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="./fab_collection.html"
+                >2020-Fab Collection</a
+              >
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="./top_collection.html"
+                >Top collection</a
+              >
+            </div>
+          </li>
+          <li class="nav-item" style="padding-right: 14px">
+            <a class="nav-link" href="./journals.html">Journal</a>
+          </li>
+          <li class="nav-item" style="padding-right: 14px">
+            <a class="nav-link" href="#">Personal Styling</a>
+          </li>
+          <li class="nav-item" style="padding-right: 14px">
+            <a class="nav-link" href="#">Sales</a>
+          </li>
+          <li class="nav-item" style="padding-top: 8px; padding-right: 14px">
+            <i class="fa fa-fw fa-shopping-cart" style="color: white"></i>
+            <a
+              class="nav-link"
+              href="#"
+              style="display: inline; margin-left: -9px"
+              >Shopping</a
+            >
+          </li>
+        </ul>
+        <form class="form-inline my-2 my-lg-0">
+          <input
+            class="form-control mr-sm-2"
+            type="search"
+            placeholder="What are you looking for?"
+            aria-label="Search"
+          />
+        </form>
+      </div>
+    </nav>
+    <div style="margin-top: 50px">
       <img src="../assets/ww.jpg" alt="Nature" style="width: 100%" />
       <div class="text-block" style="right: 20px">
         <h1 style="font-size: 4.5rem">Winter Collection</h1>
@@ -188,7 +337,7 @@
 
       <!-- colum 2 -->
 
-      <div class="col-10">
+      <div class="col-10 collection-below-dropdown">
         <div class="dropdown">
           <button
             class="btn btn-secondary dropdown-toggle brandDropdown"
@@ -212,77 +361,117 @@
           <div class="card-deck" style="height: 420">
             <div class="card">
               <img src="../assets/pp1.jpg" class="card-img-top" alt="..." />
-              <div class="card-body">
-                <h7 class="card-title">Black Waist Dress</h7>
+              <div class="card-body row">
+                <h7 class="card-title col-9">Red Jacket</h7>
 
                 <p class="card-text">
-                  <small class="text-muted">$ 8.30</small>
+                  <small class="text-muted">$ 8.28</small>
                 </p>
-                <img
-                  src="../assets/shopping-cart.svg"
-                  class="cartImage"
-                  alt=""
-                />
+                <div class="col-12" style="text-align: center">
+                  <button
+                    style="
+                      width: 185px;
+                      background-color: #ffab00;
+                      font-weight: 500;
+                    "
+                    type="button"
+                    class="btn btn-warning"
+                  >
+                    Add to Cart
+                  </button>
+                </div>
               </div>
             </div>
             <div class="card">
               <img src="../assets/ee1.jpg" class="card-img-top" alt="..." />
-              <div class="card-body">
-                <h7 class="card-title">Burgundy Jacket</h7>
+              <div class="card-body row">
+                <h7 class="card-title col-9">Burgundy Jacket</h7>
 
                 <p class="card-text">
-                  <small class="text-muted">$ 9.45</small>
+                  <small class="text-muted">$ 7.28</small>
                 </p>
-                <img
-                  src="../assets/shopping-cart.svg"
-                  class="cartImage"
-                  alt=""
-                />
+                <div class="col-12" style="text-align: center">
+                  <button
+                    style="
+                      width: 185px;
+                      background-color: #ffab00;
+                      font-weight: 500;
+                    "
+                    type="button"
+                    class="btn btn-warning"
+                  >
+                    Add to Cart
+                  </button>
+                </div>
               </div>
             </div>
             <div class="card">
               <img src="../assets/gg1.jpg" class="card-img-top" alt="..." />
-              <div class="card-body">
-                <h7 class="card-title">Fit & Flare </h7>
+              <div class="card-body row">
+                <h7 class="card-title col-9">Fit & Flare</h7>
 
                 <p class="card-text">
-                  <small class="text-muted">$ 5.30</small>
+                  <small class="text-muted">$ 7.28</small>
                 </p>
-                <img
-                  src="../assets/shopping-cart.svg"
-                  class="cartImage"
-                  alt=""
-                />
+                <div class="col-12" style="text-align: center">
+                  <button
+                    style="
+                      width: 185px;
+                      background-color: #ffab00;
+                      font-weight: 500;
+                    "
+                    type="button"
+                    class="btn btn-warning"
+                  >
+                    Add to Cart
+                  </button>
+                </div>
               </div>
             </div>
             <div class="card">
               <img src="../assets/yy1.jpg" class="card-img-top" alt="..." />
-              <div class="card-body">
-                <h7 class="card-title">Blue Shirt </h7>
+              <div class="card-body row">
+                <h7 class="card-title col-9">blue Jacket</h7>
 
                 <p class="card-text">
-                  <small class="text-muted">$ 7.81</small>
+                  <small class="text-muted">$ 7.28</small>
                 </p>
-                <img
-                  src="../assets/shopping-cart.svg"
-                  class="cartImage"
-                  alt=""
-                />
+                <div class="col-12" style="text-align: center">
+                  <button
+                    style="
+                      width: 185px;
+                      background-color: #ffab00;
+                      font-weight: 500;
+                    "
+                    type="button"
+                    class="btn btn-warning"
+                  >
+                    Add to Cart
+                  </button>
+                </div>
               </div>
             </div>
             <div class="card">
               <img src="../assets/22.webp" class="card-img-top" alt="..." />
-              <div class="card-body">
-                <h7 class="card-title">Floral Fit & Flare</h7>
+              <div class="card-body row">
+                <h7 class="card-title col-9">Maroon Jacket</h7>
 
                 <p class="card-text">
-                  <small class="text-muted">$ 9.30</small>
+                  <small class="text-muted">$ 7.28</small>
                 </p>
-                <img
-                  src="../assets/shopping-cart.svg"
-                  class="cartImage"
-                  alt=""
-                />
+                <div class="col-12" style="text-align: center">
+                  <button
+                    style="
+                      width: 185px;
+                      background-color: #ffab00;
+                      font-weight: 500;
+                    "
+                    type="button"
+                    class="btn btn-warning"
+                  >
+                    Add to Cart
+                  </button>
+                </div>
               </div>
             </div>
           </div>
@@ -292,77 +481,117 @@
           <div class="card-deck" style="height: 420">
             <div class="card">
               <img src="../assets/ww1.webp" class="card-img-top" alt="..." />
-              <div class="card-body">
-                <h7 class="card-title">Lace Jacket</h7>
+              <div class="card-body row">
+                <h7 class="card-title col-9">lace Jacket</h7>
 
                 <p class="card-text">
-                  <small class="text-muted">$ 5.39</small>
+                  <small class="text-muted">$ 5.28</small>
                 </p>
-                <img
-                  src="../assets/shopping-cart.svg"
-                  class="cartImage"
-                  alt=""
-                />
+                <div class="col-12" style="text-align: center">
+                  <button
+                    style="
+                      width: 185px;
+                      background-color: #ffab00;
+                      font-weight: 500;
+                    "
+                    type="button"
+                    class="btn btn-warning"
+                  >
+                    Add to Cart
+                  </button>
+                </div>
               </div>
             </div>
             <div class="card">
               <img src="../assets/qq1.webp" class="card-img-top" alt="..." />
-              <div class="card-body">
-                <h7 class="card-title"> Bodycon Jacket</h7>
+              <div class="card-body row">
+                <h7 class="card-title col-9">Dark Jacket</h7>
 
                 <p class="card-text">
-                  <small class="text-muted">$ 6.71</small>
+                  <small class="text-muted">$ 7.28</small>
                 </p>
-                <img
-                  src="../assets/shopping-cart.svg"
-                  class="cartImage"
-                  alt=""
-                />
+                <div class="col-12" style="text-align: center">
+                  <button
+                    style="
+                      width: 185px;
+                      background-color: #ffab00;
+                      font-weight: 500;
+                    "
+                    type="button"
+                    class="btn btn-warning"
+                  >
+                    Add to Cart
+                  </button>
+                </div>
               </div>
             </div>
             <div class="card">
               <img src="../assets/21.jpg" class="card-img-top" alt="..." />
-              <div class="card-body">
-                <h7 class="card-title">Red Jacket</h7>
+              <div class="card-body row">
+                <h7 class="card-title col-9">Red Jacket</h7>
 
                 <p class="card-text">
-                  <small class="text-muted">$ 4.89</small>
+                  <small class="text-muted">$ 7.28</small>
                 </p>
-                <img
-                  src="../assets/shopping-cart.svg"
-                  class="cartImage"
-                  alt=""
-                />
+                <div class="col-12" style="text-align: center">
+                  <button
+                    style="
+                      width: 185px;
+                      background-color: #ffab00;
+                      font-weight: 500;
+                    "
+                    type="button"
+                    class="btn btn-warning"
+                  >
+                    Add to Cart
+                  </button>
+                </div>
               </div>
             </div>
             <div class="card">
               <img src="../assets/wq.webp" class="card-img-top" alt="..." />
-              <div class="card-body">
-                <h7 class="card-title">A-Line Jacket</h7>
+              <div class="card-body row">
+                <h7 class="card-title col-9">Soft Jacket</h7>
 
                 <p class="card-text">
-                  <small class="text-muted">$ 2.80</small>
+                  <small class="text-muted">$ 5.28</small>
                 </p>
-                <img
-                  src="../assets/shopping-cart.svg"
-                  class="cartImage"
-                  alt=""
-                />
+                <div class="col-12" style="text-align: center">
+                  <button
+                    style="
+                      width: 185px;
+                      background-color: #ffab00;
+                      font-weight: 500;
+                    "
+                    type="button"
+                    class="btn btn-warning"
+                  >
+                    Add to Cart
+                  </button>
+                </div>
               </div>
             </div>
             <div class="card">
               <img src="../assets/xx1.jpg" class="card-img-top" alt="..." />
-              <div class="card-body">
-                <h7 class="card-title">Fit & Flare </h7>
+              <div class="card-body row">
+                <h7 class="card-title col-9">Fit & Flare</h7>
 
                 <p class="card-text">
-                  <small class="text-muted">$ 6.30</small>
+                  <small class="text-muted">$ 6.86</small>
                 </p>
-                <img
-                  src="../assets/shopping-cart.svg"
-                  class="cartImage"
-                  alt=""
-                />
+                <div class="col-12" style="text-align: center">
+                  <button
+                    style="
+                      width: 185px;
+                      background-color: #ffab00;
+                      font-weight: 500;
+                    "
+                    type="button"
+                    class="btn btn-warning"
+                  >
+                    Add to Cart
+                  </button>
+                </div>
               </div>
             </div>
           </div>
@@ -372,82 +601,154 @@
           <div class="card-deck" style="height: 420">
             <div class="card">
               <img src="../assets/rr1.webp" class="card-img-top" alt="..." />
-              <div class="card-body">
-                <h7 class="card-title"> Sheath Jacket</h7>
+              <div class="card-body row">
+                <h7 class="card-title col-9">Sheath Jacket</h7>
 
                 <p class="card-text">
-                  <small class="text-muted">$ 8.41</small>
+                  <small class="text-muted">$ 5.78</small>
                 </p>
-                <img
-                  src="../assets/shopping-cart.svg"
-                  class="cartImage"
-                  alt=""
-                />
+                <div class="col-12" style="text-align: center">
+                  <button
+                    style="
+                      width: 185px;
+                      background-color: #ffab00;
+                      font-weight: 500;
+                    "
+                    type="button"
+                    class="btn btn-warning"
+                  >
+                    Add to Cart
+                  </button>
+                </div>
               </div>
             </div>
             <div class="card">
               <img src="../assets/uu1.jpg" class="card-img-top" alt="..." />
-              <div class="card-body">
-                <h7 class="card-title">Blue Jacket</h7>
+              <div class="card-body row">
+                <h7 class="card-title col-9">Blue Jacket</h7>
 
                 <p class="card-text">
-                  <small class="text-muted">$ 7.93</small>
+                  <small class="text-muted">$ 8.28</small>
                 </p>
-                <img
-                  src="../assets/shopping-cart.svg"
-                  class="cartImage"
-                  alt=""
-                />
+                <div class="col-12" style="text-align: center">
+                  <button
+                    style="
+                      width: 185px;
+                      background-color: #ffab00;
+                      font-weight: 500;
+                    "
+                    type="button"
+                    class="btn btn-warning"
+                  >
+                    Add to Cart
+                  </button>
+                </div>
               </div>
             </div>
             <div class="card">
               <img src="../assets/hh.webp" class="card-img-top" alt="..." />
-              <div class="card-body">
-                <h7 class="card-title">Maroon Jacket</h7>
+              <div class="card-body row">
+                <h7 class="card-title col-9">Maroon Jacket</h7>
 
                 <p class="card-text">
                   <small class="text-muted">$ 7.28</small>
                 </p>
-                <img
-                  src="../assets/shopping-cart.svg"
-                  class="cartImage"
-                  alt=""
-                />
+                <div class="col-12" style="text-align: center">
+                  <button
+                    style="
+                      width: 185px;
+                      background-color: #ffab00;
+                      font-weight: 500;
+                    "
+                    type="button"
+                    class="btn btn-warning"
+                  >
+                    Add to Cart
+                  </button>
+                </div>
               </div>
             </div>
             <div class="card">
               <img src="../assets/b1.jpg" class="card-img-top" alt="..." />
-              <div class="card-body">
-                <h7 class="card-title"> Bodycon Jacket</h7>
 
+              <div class="card-body row">
+                <h7 class="card-title col-9">Bodycon Jacket</h7>
+                <!-- <img src="../assets/shopping-cart.svg" class="col-3" alt="" /> -->
                 <p class="card-text">
                   <small class="text-muted">$ 6.33</small>
                 </p>
-                <img
-                  src="../assets/shopping-cart.svg"
-                  class="cartImage"
-                  alt=""
-                />
+                <div class="col-12" style="text-align: center">
+                  <button
+                    style="
+                      width: 185px;
+                      background-color: #ffab00;
+                      font-weight: 500;
+                    "
+                    type="button"
+                    class="btn btn-warning"
+                  >
+                    Add to Cart
+                  </button>
+                </div>
               </div>
             </div>
             <div class="card">
               <img src="../assets/gg1.jpg" class="card-img-top" alt="..." />
-              <div class="card-body">
-                <h7 class="card-title">Brown Jacket</h7>
+              <div class="card-body row">
+                <h7 class="card-title col-9">Brown Jacket</h7>
 
                 <p class="card-text">
                   <small class="text-muted">$ 7.88</small>
                 </p>
-                <img
-                  src="../assets/shopping-cart.svg"
-                  class="cartImage"
-                  alt=""
-                />
+                <div class="col-12" style="text-align: center">
+                  <button
+                    style="
+                      width: 185px;
+                      background-color: #ffab00;
+                      font-weight: 500;
+                    "
+                    type="button"
+                    class="btn btn-warning"
+                  >
+                    Add to Cart
+                  </button>
+                </div>
               </div>
             </div>
           </div>
         </div>
       </div>
     </div>
+    <footer class="footer-distributed" style="margin-top: 15px">
+      <h3>Femmie&<span>Fierce</span></h3>
+      <br /><br /><br />
+      <p class="footer-links">
+        <a href="contactUs.html">Contact Us</a>
+        ·
+        <a href="#">About</a>
+      </p>
+
+      <p class="footer-company-name">Femmie&Fierce &copy; 2020</p>
+
+      <div class="social-menu">
+        <ul>
+          <li>
+            <a href=""><i class="fa fa-facebook"></i></a>
+          </li>
+          <li>
+            <a href=""><i class="fa fa-twitter"></i></a>
+          </li>
+          <li>
+            <a href=""><i class="fa fa-instagram"></i></a>
+          </li>
+          <li>
+            <a href=""><i class="fa fa-youtube"></i></a>
+          </li>
+          <li>
+            <a href=""><i class="fa fa-linkedin"></i></a>
+          </li>
+        </ul>
+      </div>
+    </footer>
   </body>
 </html>
