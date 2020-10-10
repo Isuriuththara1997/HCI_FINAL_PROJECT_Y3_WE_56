@@ -11,6 +11,10 @@
   padding-left: 0px !important;
 }
 
+.form-control:focus {
+  box-shadow: 0 0 0 0.08rem grey !important;
+}
+
 .btn-change {
   height: 38px;
   width: 113px;

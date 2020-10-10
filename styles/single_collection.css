@@ -7,7 +7,9 @@
     font-family: rubic;
 }
 
-
+.singleImageHover :hover {
+    border: 1px solid #ffab00 !important;
+}
 
 .bigItem {
 
@@ -59,7 +61,7 @@
 .btn.focus,
 .btn:focus {
     outline: 0;
-    box-shadow: 0 0 0 0.2rem rgba(50, 64, 33, 0.10) !important;
+    box-shadow: 0 0 0 0.2rem rgba(255, 171, 0, 0.45) !important;
 }
 
 .circle-btn {
