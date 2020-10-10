@@ -28,10 +28,164 @@
     <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script>
     <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
 
+    <!-- <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    /> -->
+    <link
+      rel="stylesheet"
+      href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css"
+    />
+    <link
+      href="http://fonts.googleapis.com/css?family=Cookie"
+      rel="stylesheet"
+      type="text/css"
+    />
+    <link href="../styles/header_styles.css" rel="stylesheet" type="text/css" />
+
     <title>journal</title>
   </head>
   <body>
-    <div>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+      <a class="navbar-brand logo_container" href="#"
+        ><h1
+          style="
+            color: #ff69b4;
+            height: 100%;
+            display: table-cell;
+            vertical-align: middle;
+            font: normal 41px 'Cookie', cursive;
+            font-weight: 200;
+          "
+        >
+          Femmie&<span
+            style="
+              color: #ff1493;
+              font: normal 41px 'Cookie', cursive;
+              margin: 0;
+              font-weight: 800;
+            "
+            >Fierce</span
+          >
+        </h1>
+      </a>
+      <button
+        class="navbar-toggler"
+        type="button"
+        data-toggle="collapse"
+        data-target="#navbarSupportedContent"
+        aria-controls="navbarSupportedContent"
+        aria-expanded="false"
+        aria-label="Toggle navigation"
+      >
+        <span class="navbar-toggler-icon"></span>
+      </button>
+
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto" style="font-size: 17px">
+          <li
+            class="nav-item active"
+            style="padding-top: 8px; padding-right: 14px; padding-left: 29px"
+          >
+            <i class="fa fa-fw fa-home" style="color: white"></i>
+            <a
+              style="display: inline; margin-left: -9px"
+              class="nav-link"
+              href="#"
+              >Home <span class="sr-only">(current)</span></a
+            >
+          </li>
+
+          <li class="nav-item dropdown" style="padding-right: 14px">
+            <a
+              class="nav-link dropdown-toggle"
+              href="#"
+              id="navbarDropdown"
+              role="button"
+              data-toggle="dropdown"
+              aria-haspopup="true"
+              aria-expanded="false"
+            >
+              Categories
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="#">New Arrivals</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">Frock</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">Skirt</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">Jacket and Coat</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">Pants</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">Knitwear</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">Tops and Tees</a>
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="#">Blouse</a>
+            </div>
+          </li>
+          <li class="nav-item dropdown" style="padding-right: 14px">
+            <a
+              class="nav-link dropdown-toggle"
+              href="#"
+              id="navbarDropdown"
+              role="button"
+              data-toggle="dropdown"
+              aria-haspopup="true"
+              aria-expanded="false"
+            >
+              Collection
+            </a>
+            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+              <a class="dropdown-item" href="./summer_collection.html"
+                >Summer Collection</a
+              >
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="./winter_collection.html"
+                >Winter Collection</a
+              >
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="./fab_collection.html"
+                >2020-Fab Collection</a
+              >
+              <div class="dropdown-divider"></div>
+              <a class="dropdown-item" href="./top_collection.html"
+                >Top collection</a
+              >
+            </div>
+          </li>
+          <li class="nav-item" style="padding-right: 14px">
+            <a class="nav-link" href="./journals.html">Journal</a>
+          </li>
+          <li class="nav-item" style="padding-right: 14px">
+            <a class="nav-link" href="#">Personal Styling</a>
+          </li>
+          <li class="nav-item" style="padding-right: 14px">
+            <a class="nav-link" href="#">Sales</a>
+          </li>
+          <li class="nav-item" style="padding-top: 8px; padding-right: 14px">
+            <i class="fa fa-fw fa-shopping-cart" style="color: white"></i>
+            <a
+              class="nav-link"
+              href="#"
+              style="display: inline; margin-left: -9px"
+              >Shopping</a
+            >
+          </li>
+        </ul>
+        <form class="form-inline my-2 my-lg-0">
+          <input
+            class="form-control mr-sm-2"
+            type="search"
+            placeholder="What are you looking for?"
+            aria-label="Search"
+          />
+        </form>
+      </div>
+    </nav>
+    <div style="margin-top: 57px">
       <img src="../assets/banner22.jpg" alt="Notebook" style="width: 100%" />
       <div class="content">
         <span
@@ -62,6 +216,11 @@
                   <h5 class="card-title">
                     Eight Outfit Ideas to Wear Girls’ Denim Jackets With Style
                   </h5>
+
+                  <p class="card-text">
+                    <small class="text-muted">3/February/2017 </small>
+                  </p>
+
                   <p class="card-text">
                     Since the retro era of the 1980s’, denim jackets have been a
                     permanent feature in popular culture. And it is not just
@@ -73,10 +232,15 @@
                     We, too, love cool, of-the-moment silhouettes and the
                     endless style inspiration from the IG pros that wear them.
                   </p>
+
                   <button class="btn-change">
                     <a
                       href="./single_journal1.html"
-                      style="text-decoration: none; color: whitesmoke"
+                      style="
+                        text-decoration: none;
+                        color: whitesmoke;
+                        font-weight: 600;
+                      "
                       >READ MORE</a
                     >
                   </button>
@@ -98,6 +262,9 @@
                   Far
                 </h5>
                 <p class="card-text">
+                  <small class="text-muted">20/April/2018</small>
+                </p>
+                <p class="card-text">
                   When fellow plus size shoppers ask me the best way to find
                   style inspiration or cute clothes, I always say social media.
                   Following stylish plus size women on Instagram has been key to
@@ -110,7 +277,11 @@
                 <button class="btn-change">
                   <a
                     href="./single_journal2.html"
-                    style="text-decoration: none; color: whitesmoke"
+                    style="
+                      text-decoration: none;
+                      color: whitesmoke;
+                      font-weight: 600;
+                    "
                     >READ MORE</a
                   >
                 </button>
@@ -128,6 +299,9 @@
                     16 Black Maxi Dresses You’ll Live In This Season
                   </h5>
                   <p class="card-text">
+                    <small class="text-muted">12/Sepetember/2019</small>
+                  </p>
+                  <p class="card-text">
                     The black maxi dress is a frock that knows no boundaries.
                     Walking the dog? Throw your jersey tent dress over your
                     pajamas and you’re presentable enough for the five-minute
@@ -140,7 +314,11 @@
                   <button class="btn-change">
                     <a
                       href="/single_journal.html"
-                      style="text-decoration: none; color: whitesmoke"
+                      style="
+                        text-decoration: none;
+                        color: whitesmoke;
+                        font-weight: 600;
+                      "
                       >READ MORE</a
                     >
                   </button>
@@ -160,6 +338,9 @@
                     These Accessories Will Make Every Good Outfit Even Better
                   </h5>
                   <p class="card-text">
+                    <small class="text-muted">17/August/2019</small>
+                  </p>
+                  <p class="card-text">
                     If you follow a slew of fashion girls on Instagram, chances
                     are, you've likely already seen most of the season's biggest
                     trends (think: plaid boyfriend blazers, sparkly boots, and
@@ -172,7 +353,11 @@
                   <button class="btn-change">
                     <a
                       href="/single_journal.html"
-                      style="text-decoration: none; color: whitesmoke"
+                      style="
+                        text-decoration: none;
+                        color: whitesmoke;
+                        font-weight: 600;
+                      "
                       >READ MORE</a
                     >
                   </button>
@@ -183,5 +368,36 @@
         </div>
       </div>
     </div>
+    <footer class="footer-distributed">
+      <h3>Femmie&<span>Fierce</span></h3>
+      <br /><br /><br />
+      <p class="footer-links">
+        <a href="contactUs.html">Contact Us</a>
+        ·
+        <a href="#">About</a>
+      </p>
+
+      <p class="footer-company-name">Femmie&Fierce &copy; 2020</p>
+
+      <div class="social-menu">
+        <ul>
+          <li>
+            <a href=""><i class="fa fa-facebook"></i></a>
+          </li>
+          <li>
+            <a href=""><i class="fa fa-twitter"></i></a>
+          </li>
+          <li>
+            <a href=""><i class="fa fa-instagram"></i></a>
+          </li>
+          <li>
+            <a href=""><i class="fa fa-youtube"></i></a>
+          </li>
+          <li>
+            <a href=""><i class="fa fa-linkedin"></i></a>
+          </li>
+        </ul>
+      </div>
+    </footer>
   </body>
 </html>
