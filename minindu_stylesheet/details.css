@@ -22,7 +22,7 @@ body {
 }
 
 .dropdownm {
-  float: left;
+  float: none;
   overflow: hidden;
 }
 
@@ -50,7 +50,7 @@ body {
   z-index: 1;
 }
 
-.dropdownm-content a {
+.dropdownm-content a{
   float: none;
   color: black;
   padding: 12px 16px;
@@ -96,8 +96,6 @@ body {
   	margin: 0;
     font-weight: 800;
 }
-
-
 
 footer{
 	position:relative;
@@ -291,7 +289,7 @@ h1 {
 
 .button {
   background: #ffab00;
-  padding: 1em 2em;
+  padding: 0.5em 1em;
   color: #fff;
   border: 0;
   border-radius: 5px;
@@ -299,7 +297,7 @@ h1 {
 }
 
 .button:hover {
-  background: #3876ac;
+  background: #00070e;
 }
 
 .modal {
