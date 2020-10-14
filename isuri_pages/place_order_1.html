@@ -1,0 +1,216 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+<meta name="keywords" content="footer, icons" />
+
+
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css">
+<link href="http://fonts.googleapis.com/css?family=Cookie" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<link href="../isuri_stylesheet/place_order.css" rel="stylesheet" type="text/css">
+
+<link href="../isuri_stylesheet/header_footer.css" rel="stylesheet" type="text/css">
+
+<link href="../isuri_stylesheet/login.css" rel="stylesheet" type="text/css">
+
+<title>Shopping Cart</title>
+</head>
+<body>
+
+    
+  <div class="navbar">
+		<div class="logo_container">
+			  <h1>Femmie&<span>Fierce</span></h1>
+			</div>
+		 <a  href="#home"><i class="fa fa-fw fa-home"></i>Home</a>
+		  <div class="dropdown">
+		<button class="dropbtn">Categories 
+			  <i class="fa fa-caret-down"></i>
+			</button>
+			<div class="dropdown-content">
+			  <a href="new_arrivals.html">New Arrivals</a>
+			  <a href="frock.html">Frock</a>
+			  <a href="../minindu_pages/skirt.html">Skirt</a>
+			  <a href="../minindu_pages/jacket_coat.html">Jacket and Coat</a>
+			  <a href="#">Pants</a>
+			  <a href="#">Knitwear</a>
+			  <a href="#">Tops and Tees</a>
+			  <a href="blouse.html">Blouse</a>
+			</div>
+		  </div> 
+			<div class="dropdown">
+		<button class="dropbtn">Collection 
+			  <i class="fa fa-caret-down"></i>
+			</button>
+		
+      <div class="dropdown-content">
+        <a href="../pages/summer_collection.html">Summer Collection</a>
+       <a href="../pages/winter_collection.html">Winter Collection</a>
+       <a href="../pages/fab_collection.html">2020-Fab Collection</a>
+       <a href="../pages/top_collection.html">Top Collection</a>
+     </div>
+     </div> 
+    
+           <a href="../pages/journals.html">Journal</a>
+						 <a href="#news">Personal Styling</a>
+						  <a href="#news">Sales</a>
+		
+						  <a href="place_order_1.html"><i class="fa fa-fw fa-shopping-cart"></i>Shopping</a>
+						   <form style="float:right;display:inline-block;line-height:60px;padding-right:14px;">
+										  <input type="text" name="searchbar" placeholder="What are you looking for?" size="25">
+								  
+									  </form>
+			  
+		</div>
+
+<br>
+<div class="row1">
+<div class="column1">
+<label for="fname">Returning Customer? <a href="#" class="open-button" onclick="openForm()">Click Here to Login</a></label>
+<div class="form-popup" id="myForm">
+  <form action="/action_page.php" class="form-container">
+    <h1>Login</h1>
+
+    <label for="email"><b>Email</b></label>
+    <input type="text" placeholder="Enter Email" name="email" required>
+
+    <label for="psw"><b>Password</b></label>
+    <input type="password" placeholder="Enter Password" name="psw" required>
+
+    <button type="submit" class="btn" formaction="place_order_1.html">Login</button>
+    <button type="button" class="btn cancel" onclick="closeForm()">Close</button>
+  </form>
+</div>
+</div>
+<div class="column1">
+<label for="fname">Have a Coupon? <a href="../isuri_pages/coupn.html">Click Here to Enter Code</a></p></label>
+</div>
+</div>
+
+<br><br>
+<div class="row">
+  <div class="col-75">
+    <div class="container">
+      <form action="/action_page.php">
+      
+        <div class="row">
+          <div class="col-50">
+            <h3>Billing Address</h3>
+            <label for="fname"><i class="fa fa-user"></i> Full Name</label>
+            <input type="text" id="fname" name="firstname" placeholder="Ex:- Isuri Uththara" required>
+            <label for="email"><i class="fa fa-envelope"></i> Email</label>
+            <input type="text" id="email" name="email" placeholder="Ex:- isuri@abcd.com" required>
+                       
+                        <label for="email"><i class="fa fa-mobile"></i> Contact Number</label>
+            			<input type="text" id="number" name="number" placeholder="Ex:- 0712345678" required>
+            
+            <label for="adr"><i class="fa fa-address-card-o"></i> Address</label>
+            <input type="text" id="adr" name="address" placeholder="Ex:- 1234/A abcd rd colombo" required>
+            <label for="city"><i class="fa fa-institution"></i> City</label>
+            <input type="text" id="city" name="city" placeholder="Ex:- Sri Lanka" required>
+
+            <div class="row">
+              <div class="col-50">
+                <label for="state">State</label>
+                <input type="text" id="state" name="state" placeholder="Ex:- SL" required>
+              </div>
+              <div class="col-50">
+                <label for="zip">Zip</label>
+                <input type="text" id="zip" name="zip" placeholder="Ex:- 00000" required>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-50">
+            <h3>Payment</h3>
+           
+ 
+  				
+  				
+			
+         
+            <label for="fname"><input type="radio" name="gender" value="male"> Cash
+            <input type="radio" name="gender" value="female"> Card </label>
+            <div class="icon-container">
+            Accepted Cards
+              <i class="fa fa-cc-visa" style="color:navy;"></i>
+              <i class="fa fa-cc-mastercard" style="color:red;"></i>
+            </div>
+            <label for="cname">Name on Card</label>
+            <input type="text" id="cname" name="cardname" placeholder="Ex:- Isuri Uththara">
+            <label for="ccnum">Credit card number</label>
+            <input type="text" id="ccnum" name="cardnumber" placeholder="Ex:- 1111-1111-1111-1111">
+            <label for="expmonth">Exp Month</label>
+            <input type="text" id="expmonth" name="expmonth" placeholder="Ex:-January">
+            <div class="row">
+              <div class="col-50">
+                <label for="expyear">Exp Year</label>
+                <input type="text" id="expyear" name="expyear" placeholder="Ex:- YYYY">
+              </div>
+              <div class="col-50">
+                <label for="cvv">CVV</label>
+                <input type="text" id="cvv" name="cvv" placeholder="Ex:- 123">
+              </div>
+            </div>
+          </div>
+          
+        </div>
+        <label>
+          <input type="checkbox" check="check" name="sameadr"> I have read and agree to the website terms and conditions.
+        </label>
+			<input type="submit" value="Place Order" class="btn" formaction="place_order.html">
+      </form>
+    </div>
+  </div>
+
+</div>
+
+<footer class="footer-distributed">
+
+
+<h3>Femmie&<span>Fierce</span></h3><br><br><br>
+    <p class="footer-links">
+      <a href="../waruna_pages/contactUs.html">Contact Us</a>
+      ·
+      <a href="#">About</a>
+    </p>
+
+    <p class="footer-company-name">Femmie&Fierce &copy; 2020</p>
+
+
+
+  <div class="social-menu">
+<ul>
+
+  <li><a href="https://en-gb.facebook.com/login/"><i class="fa fa-facebook"></i></a></li>
+  <li><a href="https://twitter.com/login?lang=en"><i class="fa fa-twitter"></i></a></li>
+  <li><a href="https://www.instagram.com/accounts/login/?hl=en"><i class="fa fa-instagram"></i></a></li>
+  <li><a href="https://www.youtube.com/"><i class="fa fa-youtube"></i></a></li>
+  <li><a href="https://www.linkedin.com/login"><i class="fa fa-linkedin"></i></a></li>
+</ul>
+</div>
+
+
+
+
+</footer>
+
+<script>
+function openForm() {
+  document.getElementById("myForm").style.display = "block";
+}
+
+function closeForm() {
+  document.getElementById("myForm").style.display = "none";
+}
+</script>
+
+ 
+</body>
+</html>
