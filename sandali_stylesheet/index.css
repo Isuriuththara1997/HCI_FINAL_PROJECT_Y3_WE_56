@@ -1,0 +1,334 @@
+    body {
+        padding: 0;
+        margin: 0;
+        font-family: sans-serif;
+        overflow: hidden;
+        animation-delay: 4s;
+    }
+    
+    .banner1,
+    .banner2,
+    .banner3,
+    .banner4 {
+        height: 100vh;
+        width: 100%;
+        position: absolute;
+        left: 0;
+        top: 0;
+    }
+    
+    img {
+        width: 120%;
+        position: absolute;
+        left: 50%;
+        top: 50%;
+        transform: translate(-50%, -50%);
+        animation: zoom-out 3s linear infinite;
+    }
+    
+    @keyframes zoom-out {
+        100% {
+            width: 100%;
+        }
+    }
+    
+    .text-box1 {
+        width: 600px;
+        position: absolute;
+        top: 200px;
+        left: 100px;
+        color: rgb(10, 10, 10);
+        animation: text-up 12s linear infinite;
+        transform: translateY(100px);
+    }
+    
+    .text-box2 {
+        width: 600px;
+        position: absolute;
+        top: 200px;
+        left: 100px;
+        color: #fff;
+        animation: text-up 12s linear infinite;
+        transform: translateY(100px);
+    }
+    
+    .text-box3 {
+        width: 600px;
+        position: absolute;
+        top: 200px;
+        left: 100px;
+        color: #fff;
+        animation: text-up 12s linear infinite;
+        transform: translateY(100px);
+    }
+    
+    .text-box4 {
+        width: 600px;
+        position: absolute;
+        top: 200px;
+        left: 100px;
+        color: rgb(10, 10, 10);
+        animation: text-up 12s linear infinite;
+        transform: translateY(100px);
+    }
+    
+    .text-box1 h1 {
+        font-size: 4em;
+        margin-bottom: 40px;
+        color: white;
+    }
+    
+    .text-box2 h1 {
+        font-size: 3em;
+        margin-bottom: 40px;
+    }
+    
+    .text-box3 h1 {
+        font-size: 5em;
+        margin-bottom: 40px;
+        color: white;
+    }
+    
+    .text-box4 h1 {
+        font-size: 4em;
+        margin-bottom: 40px;
+    }
+    
+    .text-box1 h2 {
+        font-size: 180x;
+        line-height: 18px;
+        margin-top: 80px;
+        color: white;
+    }
+    
+    .text-box2 h2 {
+        font-size: 180x;
+        line-height: 18px;
+        margin-top: 80px;
+    }
+    
+    .text-box3 h2 {
+        font-size: 180x;
+        line-height: 18px;
+        margin-top: 80px;
+        color: white;
+    }
+    
+    .text-box4 h2 {
+        font-size: 180x;
+        line-height: 18px;
+        margin-top: 80px;
+    }
+    
+    .banner1 {
+        animation: slide1 12s linear infinite;
+    }
+    
+    .banner2 {
+        animation: slide2 12s linear infinite;
+    }
+    
+    .banner3 {
+        animation: slide3 12s linear infinite;
+    }
+    
+    .banner4 {
+        animation: slide4 12s linear infinite;
+    }
+    
+    @keyframes slide1 {
+        0% {
+            visibility: visible;
+        }
+        25% {
+            visibility: hidden;
+        }
+        50% {
+            visibility: hidden;
+        }
+        75% {
+            visibility: hidden;
+        }
+        100% {
+            visibility: visible;
+        }
+    }
+    
+    @keyframes slide2 {
+        0% {
+            visibility: hidden;
+        }
+        25% {
+            visibility: hidden;
+        }
+        50% {
+            visibility: visible;
+        }
+        75% {
+            visibility: hidden;
+        }
+        100% {
+            visibility: hidden;
+        }
+    }
+    
+    @keyframes slide3 {
+        0% {
+            visibility: hidden;
+        }
+        25% {
+            visibility: hidden;
+        }
+        50% {
+            visibility: hidden;
+        }
+        75% {
+            visibility: visible;
+        }
+        100% {
+            visibility: hidden;
+        }
+    }
+    
+    @keyframes slide4 {
+        0% {
+            visibility: hidden;
+        }
+        25% {
+            visibility: hidden;
+        }
+        50% {
+            visibility: hidden;
+        }
+        75% {
+            visibility: hidden;
+        }
+        100% {
+            visibility: visible;
+        }
+    }
+    
+    @keyframes text-up {
+        10% {
+            transform: translateY(0px);
+        }
+        100% {
+            transform: translateY(0px);
+        }
+    }
+    
+    .text1 {
+        animation-delay: 0s;
+    }
+    
+    .text2 {
+        animation-delay: 3s;
+    }
+    
+    .text3 {
+        animation-delay: 6s;
+    }
+    
+    .text4 {
+        animation-delay: 9s;
+    }
+    
+    a {
+        box-shadow: 0 20px 50px rgba(0, 0, 0, .5);
+        text-decoration: none;
+        position: absolute;
+        color: #fff;
+        text-transform: uppercase;
+        font-weight: bold;
+        letter-spacing: 2px;
+        padding: 30px 60px;
+        font-size: 30px;
+    }
+    
+    a:before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 50%;
+        height: 100%;
+        background: rgba(255, 255, 255, 0.05);
+    }
+    
+    a span:nth-child(1) {
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 2px;
+        width: 100%;
+        background: linear-gradient(to right, #fff900, #1799f1);
+        animation: animate-top 2s linear infinite;
+    }
+    
+    a span:nth-child(2) {
+        position: absolute;
+        top: 0;
+        right: 0;
+        height: 100%;
+        width: 2px;
+        background: linear-gradient(to bottom, #fff900, #1799f1);
+        animation: animate-right 2s linear infinite;
+        animation-delay: 1s;
+    }
+    
+    a span:nth-child(3) {
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        height: 2px;
+        width: 100%;
+        background: linear-gradient(to left, #fff900, #1799f1);
+        animation: animate-bottom 2s linear infinite;
+    }
+    
+    a span:nth-child(4) {
+        position: absolute;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 2px;
+        background: linear-gradient(to top, #fff900, #1799f1);
+        animation: animate-left 2s linear infinite;
+        animation-delay: 1s;
+    }
+    
+    @keyframes animate-top {
+        0% {
+            transform: translateX(-100%);
+        }
+        100% {
+            transform: translateX(100%);
+        }
+    }
+    
+    @keyframes animate-left {
+        0% {
+            transform: translateY(100%);
+        }
+        100% {
+            transform: translateY(-100%);
+        }
+    }
+    
+    @keyframes animate-right {
+        0% {
+            transform: translateY(-100%);
+        }
+        100% {
+            transform: translateY(100%);
+        }
+    }
+    
+    @keyframes animate-bottom {
+        0% {
+            transform: translateX(100%);
+        }
+        100% {
+            transform: translateX(-100%);
+        }
+    }
