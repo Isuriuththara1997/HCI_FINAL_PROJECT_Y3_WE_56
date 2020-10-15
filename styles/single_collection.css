@@ -9,6 +9,7 @@
 
 .singleImageHover :hover {
     border: 1px solid #ffab00 !important;
+    box-shadow: 12px 14px 22px 2px rgba(0,0,0,0.20);
 }
 
 .bigItem {
@@ -112,3 +113,155 @@
 .full img:hover {
     cursor: pointer;
 }
+
+
+.comment {
+
+    background-color: rgb(247, 245, 245);
+    border-radius: 5px;
+    padding: 0px;
+    margin: 16px 0;
+    margin-right: 147px !important;
+    width: 1193px !important;
+    margin-top: 43px;
+}
+
+.comment::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.commentImage {
+    float: left;
+    margin-right: 20px;
+    border-radius: 50%;
+    margin-left: 8px;
+
+    margin-top: 5px !important;
+}
+
+
+.comment span {
+    font-size: 20px;
+    margin-right: 15px;
+}
+
+@media (max-width: 550px) {
+    .comment {
+        text-align: center;
+    }
+
+    .commentImage {
+        margin: auto;
+        float: none;
+        display: block;
+    }
+}
+
+
+/*--------- comment writer--------*/
+
+.form-control:focus {
+    box-shadow: 0 0 0 0.08rem grey !important;
+}
+
+.form-control {
+    border: 1px solid #636464 !important;
+}
+
+.commentbody {
+    margin: 13px 149px 2px 0px;
+    border: 0px !important;
+}
+
+.card-body {
+    padding-left: 0px !important;
+    margin-left: -1px !important;
+
+}
+.cardStyle{
+    box-shadow: 12px 14px 22px 2px rgba(0,0,0,0.25);
+}
+
+.postcomment {
+    width: 200px;
+    margin-top: -2px;
+}
+
+
+/*--------------------------------*/
+
+
+
+.text-block {
+    position: absolute;
+    bottom: 110px;
+
+    background-color: black;
+    color: white;
+    padding-left: 25px;
+    padding-right: 20px;
+    padding-bottom: 0px;
+    border-radius: 1.2rem;
+}
+
+.btn.focus,
+.btn:focus {
+    outline: 0;
+    box-shadow: 0 0 0 0.09rem black !important;
+}
+
+
+
+
+
+
+.card-title {
+    font-weight: 600;
+}
+
+.text-muted {
+    font-size: 15px;
+}
+
+.blockStyle {
+    margin-top: 25px !important;
+}
+
+
+.cartImage {
+    width: 30px;
+    margin: -320px 11px -128px 157px;
+}
+
+
+
+.btn-secondary:hover {
+    color: black !important;
+}
+
+.btn-secondary {
+    color: black !important;
+}
+
+
+
+.card-img-top {
+    height: 315px;
+    width: auto;
+}
+
+.cardDeckStyle {
+    margin-top: 20px;
+}
+
+.card {
+    height: 430px !important;
+}
+
+
+.checked {
+    color: orange;
+}
+

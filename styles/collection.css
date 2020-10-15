@@ -10,6 +10,8 @@
   border-radius: 1.2rem;
 }
 
+
+
 .btn.focus,
 .btn:focus {
   outline: 0;
@@ -20,7 +22,7 @@
 .col1-border {
   border: 1px solid#e9e9ed;
   width: 100%;
-  height: 60% !important;
+  height: 858px !important;
   margin-top: 40px;
   margin-left: 20px;
 }
@@ -140,9 +142,9 @@ label>input[type="radio"]:checked+* {
 
 label>input[type="radio"]:checked+*::before {
   background: radial-gradient(black 0%,
-      black 40%,
-      transparent 50%,
-      transparent);
+  black 40%,
+  transparent 50%,
+  transparent);
   border-color: black;
 }
 
