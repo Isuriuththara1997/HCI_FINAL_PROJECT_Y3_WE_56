@@ -7,7 +7,7 @@ body {
 	height: 100%;
 }
 .imagebg {
-	background-image:url(../isuri_images/feedback.jpg);
+	background-image:url(../assets/feedback.jpg);
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
