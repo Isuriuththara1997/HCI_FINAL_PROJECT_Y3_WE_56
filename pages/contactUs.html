@@ -68,7 +68,7 @@
     <div class="contact-left">
       <h3>Sent your request</h3>
 
-      <form>
+      <form action="/action_page.php" onsubmit="myFunction()"></form>
         <div class="input-row">
           <div class="input-group">
             <lable>Name</lable>
@@ -97,9 +97,14 @@
           <lable>Message</lebal>
           <textarea rows="5" placeholder="Enter your Message"></textarea>
 
-          <button type="submit">Send</button>
+          <button type="submit" value="submit">Send</button>
 
       </form>
+      <script>
+        function myFunction() {
+          alert("The form was submitted");
+        }
+        </script>
 
     </div>
 
@@ -126,14 +131,6 @@
 
   </div>
 </div>
-
-
-
-
-
-
-
-
 
 </body>
 </html>
