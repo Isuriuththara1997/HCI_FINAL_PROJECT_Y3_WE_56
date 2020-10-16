@@ -2,12 +2,867 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b0fd600-ecea-4b6f-9fda-d396ce4a4fed" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/pages/singleCollection.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/singleCollection.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/summer_collection.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/summer_collection.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/collection.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/collection.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/journals.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/journals.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/single_collection.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/single_collection.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/single_journal.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/single_journal.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/HCI_FINAL_PROJECT_Y3_WE_56.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/HCI_FINAL_PROJECT_Y3_WE_56/v15/.suo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/VSWorkspaceState.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vs/slnx.sqlite" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/11.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/15662.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/157379-OUGQH9-859.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/22.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/About/a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/About/b.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/About/c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Copy of Earth Day Sustainable Fashion Animated-300x250 px.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Cute-Girls-HD-Wallpapers-041.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/JosefinSans-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Rubik-Regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Tbanner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/a1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/aa1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/ac1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/as1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/ass1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/b1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/b11.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/b12.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/b13.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/b14.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/b15.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/b16.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/b17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/banner2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/banner22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/banner3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bb1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/bbb1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/beautiful_girl_44-wallpaper-3840x2400.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blog1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blog2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blog3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blog4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/kids/0a443aa0-5359-499a-8755-680bdd24be4e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/kids/2020 Fashion Summer New Style Girls Dress.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/kids/Belle.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/kids/Fashion &amp; Arts.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/kids/Girls Checkered Ringer Tee (Kids).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/kids/Girls Clothes Summer Children Girls Clothing Sets Cotton Tops Leggings Jean Baby Kids 2Pcs Suits.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/kids/Girls Clothing, Girls Tops, Girls Jeans, Girls….png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/kids/Girls Pants and Jeans.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/kids/Girls Striped Lettuce-Edge Top (Kids).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/kids/Girls' Short Sleeve Flip Sequin Moon and Stars T-Shirt - Cat &amp; Jack™ Black XL.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/kids/Girls' Tops _ Target.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/kids/Hand Painted Watermelon Top – Yellow.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/kids/Lux Short Sleeve Tee.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/kids/Mainio AW15 _16 Collection - Petit &amp; Small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/kids/Mango.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/kids/Newborn Baby Girl Clothes Sunflower Wild Ox Romper + Floral Pants with Headband 3Pcs Summer Outfit Set 0-18Months.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/kids/Nike Sportswear Big Kids' (Girls') Tank (Pacific Blue).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/kids/Nike Sportswear Big Kids' (Girls') Tank (Speed Yellow).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/kids/Pepa &amp; Co - Girl Look Book.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/kids/Ruffle Sleeve T-Shirt.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/kids/Senorita Cotton Casual Kurtis for Girls - RED KAA-01373.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/kids/Stripe halter top &amp; Rose Jeans.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/kids/Student Kids Girls Cartoon Sequin School Backpack Satchel Travel Shoulder.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/kids/Sugar Pop Top Collaboration with Sew Caroline _ The Simple Life Pattern Company.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/kids/Toddler Baby Kids Girls Puff Sleeve Polka Dot Tops  Ripped Jean Shorts.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/kids/Top Indian wedding style for your little Princess – G3+ Fashion.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/kids/bbb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/kids/e0047c88-5b06-4dff-a739-fa5e781408f8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/young/15 Best Women's Kurta Tops In Trend For 2019 _ Styles At Life.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/young/28 Super Affordable Spring 2020 Clothes - Chery C.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/young/All-matched Chiffon Flare Sleeve Pullover Blouse.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/young/Blouses _ Chemises Femme.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/young/Blue Ikat Side Closure Top.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/young/Blue Rayon Embroidered Top - Zephyrs_in.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/young/Blue Solid Color Georgette Top For Women Round Neck With 3_4 Sleeve Women Tops.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/young/Buy  Online at Jaypore_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/young/Dots &amp; Stripes Frill Collared Blouse.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/young/Hannah Kristina Metz Georgiana Blouse - Paprika — Cocobolo Shop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/young/Head out for a road trip in style with the Addie….jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/young/Ladies Shirts_ Buy Casual &amp; Formal Shirts for Women online in India.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/young/NEW ARRIVALS.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/young/Pearl Button Puff Sleeve Collared Blouse.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/young/Scully Women's Horseshoe and Roses Western Shirt (PL-637) - Cowgirl Delight.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/young/See-through Puff Sleeve Peplum Blouse.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/young/Solid Square Neck Puff Sleeve Top _ SHEIN USA.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/young/The Best Street Style From New York Fashion Week.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/young/Western Top Collection _ Latest Design Trendy Women's Western Wear Top.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/young/Women Mock-Neck Puff Sleeve Knot Backless Polka Dot Top.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/young/Zizly Women's Regular Fit Top -.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/young/blouse rafaelo ecru.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/young/Блуза ETHEL_ Блузы, рубашки_ Garne - артикул_ 3032259_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/young/ТЕХНОЛОГИЯ ПОШИВА.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/blouse/young/مدل شومیز حریر مجلسی جدید ۲۰۱۹ - ۹۸ دخترانه و زنانه شیک • مجله تصویر زندگی.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/brands/brands1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/brands/brands10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/brands/brands11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/brands/brands12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/brands/brands13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/brands/brands14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/brands/brands15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/brands/brands16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/brands/brands17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/brands/brands18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/brands/brands19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/brands/brands2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/brands/brands20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/brands/brands21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/brands/brands22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/brands/brands23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/brands/brands24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/brands/brands25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/brands/brands26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/brands/brands27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/brands/brands28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/brands/brands29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/brands/brands3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/brands/brands30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/brands/brands31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/brands/brands32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/brands/brands33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/brands/brands34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/brands/brands35.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/brands/brands36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/brands/brands4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/brands/brands5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/brands/brands6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/brands/brands7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/brands/brands8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/brands/brands9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/c1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/cc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/cc1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/cl_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/coupn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/d1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/details/1d802e1d-696c-4705-ad4b-88e5bf9868b0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/details/Blue Wedding Theme Ideas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/details/Ethnic Lawn and Dress Collection.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/details/Flower Girl Dresses Jewel Neck Tulle Short Sleeves… (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/details/Flower Girl’s Dress Girl's Princess Dress Costume Dress Wedding Dress.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/details/Girls Fancy Deluxe Princess Cinderella Inspired Ball Gown Dress Halloween Costume.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/details/Girls Floral Embroidered Tulle Birthday Wedding Dress Flower Girl Dress With Train.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/details/Girls Sleeveless Floral Knee-Length Dress Pageant Party Flower Girl Dress.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/details/Girls Sleeveless Flower Embroidered Formal Dress Ankle Length Flower Girl Dress.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/details/In Stock_Ship in 48 hours Pink Hi Lo Tulle….jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/details/Joan Dress - Emerald Green.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/details/Light Blue Fairy Dress for Girls.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/details/Princess Designer Birthday Party Dresses Gowns - Curious Village.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/details/Starlight _ alexandrina.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/details/Trailing Flower Bow Girl Dress Custom Tailored Elegant Princess Party Dress.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/details/Watch the Best YouTube Videos Online.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/details/Webp.net-resizeimage (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/details/Webp.net-resizeimage (2).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/details/Webp.net-resizeimage (3).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/details/Webp.net-resizeimage (4).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/details/Webp.net-resizeimage1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/details/Yellow_Pink Flower Girl Dress Party Prom Formal Ball Gowns Lace Up Straps Custom  _ eBay.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/details/c9be25f3-b26f-4cb0-8ad1-ac076f8e9b57.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/details/vestidos de fiesta de noche Baby Girl Princess Ball Gown Dress Lace Flower Girl Bridemaid For Weddin.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/details/‘Ertugrul Ghazi’ actress Esra Bilgic Photography.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/ee1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/f1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/f2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/f3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/f4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/f5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/f6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/f7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/f8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/f9.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fabbanner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fabbanner2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fbanner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/feedback.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/kids/50 New And Unique Baby Frock Designs in 2020 with Images.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/kids/Baker Girls+Baby Bundle _ Vintage Little Lady.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/kids/Birmingham.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/kids/Buy Handloom Clothing for Women Online _ Sarees, Kurtas, Tops, Bottom Wear.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/kids/Deep Pink Jacquard Embroidered Party Kids Gown.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/kids/Double Layer Kids Net Gown.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/kids/Double Layer Kids Satin Net Lehenga Choli.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/kids/Fairy tale.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/kids/Floral Print Sleeveless Dress Outfit Set.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/kids/Frocks for 2 Years Old Girl - Latest and Pretty Designs _ Styles At Life.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/kids/Girls Galaxy Button-Up Satin Night Dress.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/kids/Girls Lehenga Choli 2020_ Kids Choli Suits, Buy Kids Lehenga Online.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/kids/Girls Solid Zip Back Ruffle Trim Dress _ SHEIN USA.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/kids/Girl’s Gray Flutter Sleeve Seersucker Dress.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/kids/Kids Girls Designer Gown,Children Gown Online Shopping.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/kids/Latest fashion girls frock designs - ArtsyCraftsyDad.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/kids/Latest fashion girls frock designs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/kids/Lienz.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/kids/Nada.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/kids/Opal _ Vintage Little Lady.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/kids/Pretty frock.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/kids/Round Neck Flowers Knee-Length Girls Party Dress.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/kids/Satin and Net Cold Shoulder Gown for Kids.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/kids/YuliaDarya’s Mom on Instagram_ “Good morning,  world!  photo_ @annavolk_photography_ muah_ @irinamilk”.jpg" beforePathEscaped="$PROJECT_DIR$/assets/frock/kids/Yulia🍒Darya’s Mom on Instagram_ “Good morning,  world! 🌸 photo_ @annavolk_photography_ muah_ @irinamilk”.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/kids/Школьная форма _Гермиона-модница_ г_ Омск.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/young/1881133c-39a2-41e1-a476-0a5e3c51c443 - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/young/20 Latest Designer Long Kurtis for Women Trending in (2020) - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/young/30 Beautiful and Stylish Long Kurtis for Women in Fashion _ Styles At Life - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/young/75ced704-0959-406e-b4ff-6f31823e8431 - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/young/7b55c235-7997-448e-bd99-260f4a5dd29a - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/young/92e01b40-699d-4256-acc1-88bac31918ad - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/young/Amelie dress line_Romantic petal dress_20% sale! - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/young/Auto Cold Shoulder Dress - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/young/Beat the Heat with Linen Sarees (1) - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/young/Biến hóa phong cách cùng mẫu váy đầm xòe dự tiệc đẹp thời thượng - Copy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/young/Dress collections - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/young/Elegant Off the Shoulder Black Lace Appliques Prom Dresses, Sweetheart Formal Dresses SSA15186 - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/young/Frilled Neck Button Detail Gigot Sleeve Jacquard… (1) - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/young/Glorious Ethnic Dresses You Can Wear Any Day! - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/young/Green Sari Dress _ Saree Dress _ Organic Cotton Dress _ handmade Dress - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/young/Haldi Special Yellow Color Long Frock - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/young/JJsHouse A-Line Scoop Neck Asymmetrical Chiffon… - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/young/Latest Umbrella Frock Designs Collection 2016-17 for Asian Women - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/young/Lisbon Vintage Purple Long-Sleeved Dress │ Removable Ribbon - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/young/Maxi dress for women Black linen dress Linen pleated dress _ Etsy - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/young/Peace Pink Butta Dress - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/young/Red Color Stylish Long Frock Design - Copy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/young/Rose Flower Handpainted Dress - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/young/Short Floral Cotton Dress - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/young/Smoked Grey Cotton Dress - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/young/Stripe Patch Pocket Mini Dress - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/young/This Brand Has the Best Ethnic Long Dresses • Keep Me Stylish - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/young/Traje ALCALÁ - El Ajolí - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/young/Vestido Evangelico - Dicas e Modelos que vão te encantar (1) - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/young/White pink flowers.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/young/Wholesale Rayon Occasional Wear Gown Style Kurtis Set.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/young/Women Casual Dress Western Dress Bell Sleeve Dress.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/young/WordPress_com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/young/b52f29f7-c2aa-45f8-b113-bdfbbc9b7b84 - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/young/da8e12b6-93fa-44bc-8feb-8071c778a4a7 - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/frock/young/e5b64998-0bc3-43a4-a4da-3df81404a90e - Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gervyn-louis-ZVZxYaSrvAI-unsplash.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/gg1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/girl.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/girl1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/girl___nature.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/girl_winter-wallpaper-2560x1600.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/hh.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/home/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/home/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/home/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/home/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/home/15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/home/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/home/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/home/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/home/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/home/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/home/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/home/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/home/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/home/logo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/home/slide1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/home/slide2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/home/slide3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/home/slide4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/image1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/j1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/j2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/j3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/kids/2017 Fur Hooded Baby Teenage Winter Jacket For Girls Cotton Down Parka Girls Winter Co Long Warm Thick Kids Children's JW0822.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/kids/2019 New Girls' cotton coats, long thick padded cotton suits, big boys and girls, wearing cotton jackets on both sides.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/kids/Autumn Winter Girls Woolen Coat Pink Red Flores Design Petal Sleeves Long Jacket for Kids Age 8 10 12T Yrs Old windbreaker.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/kids/BURGUNDY HOLBEIN OVERCOAT.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/kids/Children Down Cotton Jackets Girl winter Fur Collar Hooded Warm Jacket Girls Fashion Flowers Thickening Cotton Outerwear &amp; Coats.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/kids/Children's Clothing Children's Coat &amp; Jacket &amp; Overcoat Winter Girls'Winter Clothes (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/kids/Children's Clothing Children's Coat &amp; Jacket &amp; Overcoat Winter Girls'Winter Clothes.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/kids/Fur coat for girls Fall outfit for girls winter coat for _ Etsy (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/kids/Fur coat for girls Fall outfit for girls winter coat for _ Etsy (2).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/kids/Fur coat for girls Fall outfit for girls winter coat for _ Etsy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/kids/Girl Denim Jacket 2020 Thick Warm Denim Girls….jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/kids/Girl's Jacket In Winter Children's Mink-like Coat Children's Plush Jacket And Thick Foreign-style Ja.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/kids/Girl's winter Down jackets_coats baby Girl winter Coats thick duck down Warm jacket Children Outerwear for-30 degree.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/kids/Girls Jackets (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/kids/Girls Jackets.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/kids/Girls Winter Clothes.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/kids/Girls Winter Coats 2020 new Faux Fur Collar Hooded….jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/kids/Kids Girls Winter Jacket Fashion Lightweight Outwear kids Warm Long Coat Down &amp; Parkas (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/kids/Kids Girls Winter Jacket Fashion Lightweight Outwear kids Warm Long Coat Down &amp; Parkas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/kids/L E T I C I A   P E R E Z on Instagram_ “L’automne  et Léticia  @hadesignsltd bag  @by_veer  coat”.jpg" beforePathEscaped="$PROJECT_DIR$/assets/jacket_coat/coat/kids/L E T I C I A   P E R E Z on Instagram_ “L’automne 🍂 et Léticia  @hadesignsltd bag  @by_veer  coat”.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/kids/LissiKids shared a new photo on Etsy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/kids/New Arrival Kids' Clothing Online Sale, Shopping….png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/kids/PINK HOLBEIN OVERCOAT.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/kids/Petit Maison Teddy Coat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/kids/Thick Coat For Girl Plaid Woolen Coat For Girls Single-Breasted Outerwear Girl Winter England Kids Clothes Girl 6 8 10 12 14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/kids/This item is unavailable _ Etsy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/kids/children kids girls denim jacket large fur collar cotton denim outerwear Autumn Winter plus thick velvet jacket for girls.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/kids/Дети beauty cute.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/old/50+ Trendy Clothes for 80 Year Old Woman - Look Fabulous in Your 80s.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/old/A Style interview with Lyn Slater the Accidental Icon - How to stay true to yourself and not become invisible.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/old/Bint t shirt for the fabulous older woman.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/old/Breaking Up our Suit Pieces for Women over 50 in the Spring.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/old/Brigitte Macron's Très Chic Style.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/old/COLLECTION _ 45R.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/old/Coated Jeans Styled 3 Ways - This Main Line Life - Over 40 Fashion.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/old/Fashion Over 50.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/old/HOW TO WEAR THE SAME CLOTHING IN ALL OF THE SEASONS - 50 IS NOT OLD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/old/How to Never Carry a Bag in the Winter_ An Aggressive Pocket Experiment.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/old/Joanna Lumley felt pressured to strip for 1971 movie role (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/old/Leopard Coat  _ For more style inspiration visit….jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/old/Mathildes verden_ Monday morning….jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/old/Photos of Glamorous Women of a Certain Age.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/old/Praise Diane Keaton’s Glorious Menswear Style.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/old/The Camel Classic - Design Your Own Coat – Vanity &amp; Me.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/old/There's nothing wrong with comfy clothes — That’s Not My Age.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/old/Top five essential jackets and coats for women this fall and winter.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/old/US $7_3 43% OFF_B2796 2018 new autumn winter middle aged and old women's big size mother fashion vest cheap wholesale_Vests &amp; Waistcoats_   - AliExpress.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/old/Vogue Patterns Misses' Jacket and Pants 9140….png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/old/Wednesday Fa(t)shion inspirations, 1_30_13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/old/What To Wear For Valentines Day - 50 IS NOT OLD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/old/What to wear right now_ a checked autumn mac — That’s Not My Age.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/old/Wrap coat and riding boots_ Awesome and FABULOUS….jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/old/middle.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/old/vests, and jackets, and coats, oh my _ Style At A Certain Age.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/old/Прихоть Маркеса @_ декабрь….jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/young/26e6b514-3f0e-4b02-8916-341f0dc9a543.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/young/30 Professional Business Attire for Young Women 35 - Best Home Design Ideas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/young/3ca2fb38-c2bf-42ed-b371-56fb5463648d.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/young/8c281d09-988d-461a-8558-7628f4d28c7a.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/young/AMD (@lonesomepioneer) • Instagram photos and….png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/young/Ad_ Photographer in hat by Julia Brenner on….jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/young/British Style Double Breasted Trench Coat _ Harajuku Culture.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/young/Classic Thick Colorblock Checked Button Down Shirt Jacket Woolen –  Informations….jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/young/Clothing for Women 2020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/young/Faux Fur Leopard Print Coat,Faux Leather Pants,Cut….jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/young/Ladies Fashion Personality Sleeve Overcoat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/young/Me loving you.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/young/Melya Long Trench Coat (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/young/Melya Long Trench Coat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/young/New York Fashion Week Street Style Day 6_ A Sunny Day to End the Week.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/young/Professional Business Attire for Young Women - Best Home Design Ideas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/young/Saltie Blazer - Beige and Bobbi Shorts - Beige.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/young/Shop Forever 21 for the latest trends and the best deals.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/young/Trendy Fashion Style Women's Clothing Online Shopping.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/young/Women's Coats &amp; Jackets Online.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/young/aaa.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/young/coat.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/young/download.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/young/ec394d8c-1e8d-47ee-81a8-fa150e04dbe5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/coat/young/f7317efa-5f40-4ccd-9ec8-017ed1beb15e.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/kids/Appaman Kids Nikki Bomber Jacket (Toddler_Little Kids_Big Kids) Girl's Clothing Black Velvet.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/kids/Burberry Kids Delaney (Little Kids_Big Kids) Girl's Clothing Black.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/kids/Columbia Kids Arcadiatm Jacket (Little Kids_Big Kids) Girl's Coat African Violet.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/kids/Columbia Kids Arcadiatm Jacket (Little Kids_Big Kids) Girl's Coat Red Lily.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/kids/Columbia Kids Benton Springstm II Printed Fleece (Little Kids_Big Kids) Girl's Fleece Plum Folk Floral Print.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/kids/Columbia Kids Benton Springs™ Fleece (Little Kids_Big Kids) (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/kids/Columbia Kids Benton Springs™ Fleece (Little Kids_Big Kids).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/kids/Columbia Kids Bugabootm II Fleece Interchange Jacket (Little Kids_Big Kids) Girl's Coat Plum Chevron Print.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/kids/Columbia Kids Fire Sidetm Sherpa Long Jacket (Little Kids_Big Kids) Girl's Clothing Malbec.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/kids/Columbia Kids Rain-Zillatm Jacket (Little Kids_Big Kids) Girl's Coat Rouge Pink_Pink Orchid.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/kids/Columbia Kids Switchbacktm II Jacket (Little Kids_Big Kids) Girl's Coat Nocturnal.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/kids/Girls Colorblock Letter Grahpic Windbreaker Jacket.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/kids/Girls Drawstring Waist Tie Dye Jacket.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/kids/Girls Letter Tape Raglan Sleeve Colorblock Metallic Jacket.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/kids/Girls Snakeskin Print Windbreaker Jacket.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/kids/Girls Stepped Hem Zip Front Faux Leather Jacket.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/kids/Girls Teddy Lined Buttoned Front Cord Trucker Jacket.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/kids/Girls Zip Up Colorblock Cord Jacket.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/kids/Kamik Kids Betsy (Toddler_Little Kids_Big Kids) Girl's Coat Navy Fuchsia_Marine Fuchsia.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/kids/Marmot Kids Trail Wind Hoodie (Little Kids_Big Kids) Girl's Clothing Classic Blue_Pink Lemonade.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/kids/Save the Duck Kids Mid Length Reversible Faux Fur Jacket (Little Kid_Big Kid).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/kids/The North Face Kids Osolita Jacket (Little Kids_Big Kids) Girl's Jacket TNF Black_TNF White.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/kids/The North Face Kids Osolita Jacket (Little Kids_Big Kids).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/kids/The North Face Kids Reversible Mossbud Swirl Jacket (Little Kids_Big Kids) Girl's Clothing Sweet Lavender.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/kids/The North Face Kids Reversible Mossbud Swirl Jacket (Little Kids_Big Kids) Girl's Clothing Vanadis Grey.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/kids/reima Down Jacket Ennus (Toddler_Little Kids_Big Kids).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/young/23 Essentials for Your Spring_Summer 2020 Wardrobe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/young/7Mesh Women's Re_Gen Jacket.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/young/Best 10 Stylish Women's Leather Jackets For Less Than 50$.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/young/Black Faux Leather Moto Jacket.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/young/Black Moto Riding Motorbike Racing Cafe Racer Biker Jacket CE Armored.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/young/Blouson cuir Helstons Bill marron- M.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/young/Casual fur leather moto jacket winter biker….jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/young/Celebrities Tattoos Design Art Humor Animals Architecture Outdoors Quotes Education Travel Weddings.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/young/Fall Fashion for Women Over 50_ Hooray for Gray and These Easy Pieces.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/young/Humor Travel Education Outdoors Design Weddings Celebrities Animals Art Quotes Architecture Tattoos.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/young/In praise of the party jacket — That’s Not My Age.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/young/Lock and Love Women's Removable Hooded Faux Leather Moto Biker Jacket (XS_2XL).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/young/Men's Leather Jacket Large Size Zipper Pocket Stand Nech Moto Bike Stlye for Winter.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/young/Mercari_ The Selling App.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/young/Ontrend50On trend fashion for women over 50.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/young/QUANBO 2019 New Spring Autumn Men Business Casual Sheep Leather men Short Jacket High Quality Fashion Trend  Mens Leather Jacket.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/young/STUDIO Ladies Plush Black Leather Moto Bike Jacket, Size XS, light weight.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/young/Saint Laurent _ Black L Signature Hedi Slimane Fw15 Luxury Lambskin Moto.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/young/The Biker Womens Leather Motorcycle Jacket.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/young/The Over-50 Fashion Icons With the Freshest Style.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/young/Tumblr.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/young/Veste textile femme Held SARINA noir- DXS.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/young/Wolfbike Cycling Jacket Jersey Vest Wind Coat Windbreaker Jacket Outdoor Sportswear.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/young/YSL.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/jacket_coat/jacket/young/Фотогалерея_ возраст не помеха (часть 4).png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/kids/kn19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/kids/kn20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/kids/kn21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/kids/kn22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/kids/kn23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/kids/kn24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/kids/kn25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/kids/kn26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/kids/kn27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/kids/kn28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/kids/kn29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/kids/kn30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/kids/kn31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/kids/kn32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/kids/kn33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/kids/kn34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/kids/kn35.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/mom&amp;baby/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/mom&amp;baby/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/mom&amp;baby/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/mom&amp;baby/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/mom&amp;baby/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/mom&amp;baby/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/mom&amp;baby/15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/mom&amp;baby/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/mom&amp;baby/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/mom&amp;baby/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/mom&amp;baby/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/mom&amp;baby/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/mom&amp;baby/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/mom&amp;baby/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/mom&amp;baby/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/young/kn1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/young/kn10.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/young/kn11.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/young/kn12.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/young/kn13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/young/kn14.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/young/kn15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/young/kn16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/young/kn17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/young/kn18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/young/kn2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/young/kn3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/young/kn4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/young/kn5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/young/kn6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/young/kn7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/young/kn8.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/knitwear/young/kn9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/model-600225.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/multi_monitor_dual_screen_widescreen_2560x1024.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/kids/19e678e1-1454-45c6-9f0d-5108ebf23ad3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/kids/2018SSChinaGirls Dress_Skirt Dressboxboxbox.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/kids/2019 Pageant Flower Kids Dresses For Girls for Weddings Party First Communion Dresses For Girls Princess Dresses Kids Clothes.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/kids/Aristocrat Kids.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/kids/Around Milan in Mimisol fall winter 2019 - Fannice Kids Fashion.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/kids/Beautiful Ankara Styles For Children 2020 - African fashion.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/kids/Children's Luxury Ginger fox Mask Woodland Animals _ Etsy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/kids/Chinese traditional Hanfu set children's embroidery flowers girls Hanfu suit photo shoot clothing ba.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/kids/Detachable Hood Water-resistant Cotton Swing Coat in Honey _ Burberry United States.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/kids/Dresses For Girl 2018 Girls Clothing White Beading Princess Party Dress Elegant Ceremony 4 5 6 Years Teenage Girl Costume.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/kids/Girls Beaded Detail Faux Fur Teddy Coat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/kids/Girls Contrast Side Geo Leggings.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/kids/Girls Drawstring Waist Pocket Detail Camo Print….jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/kids/Girls Letter Tape Raglan Sleeve Colorblock Metallic Jacket.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/kids/Girls Maxi Dress,Kids Floral Casual T-Shirt 3_4 Sleeve Dresses with Pocket for Girls 6-12T.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/kids/Girls Side Stripe Flap Pockets Hooded Coat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/kids/Girls Tie Dye Hoodie &amp; Cycling Shorts Set.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/kids/Girls Unicorn Graphic Night Dress.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/kids/Halloween Costumes for kids 2020.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/kids/Hey sweetheart!.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/kids/I am ready for a walk!.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/kids/Newborn Arrival®️ on Instagram_ “Super Cute  @lovemalaha”.jpg" beforePathEscaped="$PROJECT_DIR$/assets/new_arrivals/kids/Newborn Arrival®️ on Instagram_ “Super Cute 🌺🌺 @lovemalaha”.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/kids/Old Navy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/kids/Schuhe, Mode und Accessoires online kaufen.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/kids/Search Kids%20dresses.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/kids/TWINSET __ Lookbook __ GIRL.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/kids/d4a686e5-db57-4a80-b8e4-983b8052f9cb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/young/20 Best Pajamas Sets To Stay Comfy-Cute All Day &amp; Night.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/young/2020 new fashion women's clothing Peter pan Collar  Vintage  dress women  dresses_ _   - AliExpress.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/young/26 Trending Spring Outfits Women Ideas 2020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/young/27 Cute Professional Work Outfits Ideas For Women 2020 - Pinmagz.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/young/27 Cute Professional Work Outfits Ideas For Women 2020 - Pinmagz2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/young/27 Spring Work Outfits Ideas for Women 2020 - Pinmagz.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/young/40 Best Online Shopping Sites for Women (Updated 2020) - YesMissy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/young/Andrew Gn Fall 2020 Ready-to-Wear Fashion Show.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/young/Camille Brown Belted Dress.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/young/Chanel Pre-Fall 2020 Fashion Show.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/young/Derek Lam 10 Crosby Fall 2020 Ready-to-Wear Fashion Show.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/young/Elie Tahari Fall 2020 Ready-to-Wear Fashion Show.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/young/Elisabetta Franchi RTW Fall 2020.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/young/Lena Hoschek Fall Winter 2020-21 Fashion Show.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/young/Monse Pre-Fall 2020 Fashion Show.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/young/POCA &amp; POCA Autumn _ Winter 2020 Women LOOK 13 BLUE DRESS.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/young/POCA &amp; POCA Autumn _ Winter 2020 Women LOOK 44 GREY JUMPSUIT.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/young/Petites Clothing &amp; Dresses On Sale.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/young/Sea Citron New York Tabitha Ruffle Smocked Mid-length Casual Maxi Dress Size 2 (XS) 68% off retail.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/young/Tall Ankle Grazer Woven Pants _ boohoo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/young/The Louie Romper Sage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/young/The Perfect Dress for Girls Night Out - Sensible Stylista.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/young/Vivienne Tam Spring 2020 Ready-to-Wear Fashion Show.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/young/ZIMMERMANN Zinnia Bow Cut Out Short Dress - We Select Dresses.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/young/casual dresses under $100! - Lauren Kay Sims.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/young/exercise outfits.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/new_arrivals/young/Лляна міді сукня на кнопках з вишивкою Butterfly Dress.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pants/k2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pants/kt1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pants/kt10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pants/kt11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pants/kt12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pants/kt13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pants/kt14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pants/kt15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pants/kt16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pants/kt17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pants/kt18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pants/kt19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pants/kt2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pants/kt20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pants/kt3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pants/kt4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pants/kt5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pants/kt6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pants/kt7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pants/kt8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pants/kt9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pants/t1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pants/t10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pants/t11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pants/t12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pants/t13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pants/t14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pants/t15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pants/t16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pants/t17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pants/t18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pants/t19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pants/t3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pants/t4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pants/t5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pants/t6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pants/t7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pants/t8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pants/t9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pp1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pp2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pp3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/pp4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/qq1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/r1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/r2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/r3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/r4.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/r5.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/r6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/rp1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/rr1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/s1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/s2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/s3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/s4.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sa1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sale/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sale/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sale/11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sale/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sale/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sale/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sale/15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sale/16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sale/17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sale/18.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sale/19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sale/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sale/20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sale/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sale/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sale/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sale/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sale/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sale/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sale/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sb1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sc1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sd1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/season.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/shopping-cart.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/size_guide.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/kids/32 NYC-Inspired Baby Names That Are Too Cute for Words.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/kids/Artículo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/kids/Chou La La _ A Curated Cute Kids Clothing Box — The Overwhelmed Mommy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/kids/Free pattern_ Little girls long flutter skirt with a scalloped hem.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/kids/Girls Layered Pleated Hem Colorblock Skirt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/kids/Girls Letter Graphic Top &amp; Floral Print Pleated Skirt Set.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/kids/Girls Paperbag Waist Contrast Tape Side Plaid Skirt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/kids/Girls Ruffle Crop Top and Chambray Lace Hem Skirt Set.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/kids/Girls Slogan Graphic Tee And Button Up Gingham Skirt Set.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/kids/Girls Slogan Graphic Tee and Layered Pleated Skirt Set.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/kids/Girls.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/kids/K-9 Poodle Skirt.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/kids/One Yard DIY Ballet Skirt.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/kids/Pink Tulle Skirt - Toddler.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/kids/Shop Forever 21 for the latest trends and the best deals (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/kids/Shop Forever 21 for the latest trends and the best deals.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/kids/Sundress for girls skirt skirt for gilrs _ Etsy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/kids/TOP 30 Fabulous FREE Patterns For Crochet Skirts 2019 - Page 9 of 30 - stunnerwoman_ com.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/kids/The Easter Bunny has arrived a little early!!! (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/kids/The Easter Bunny has arrived a little early!!!.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/kids/Tinley Tie Skirt.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/kids/Turtleneck.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/kids/Tutu Skirt.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/kids/WordPress › Error.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/kids/Your place to buy and sell all things handmade.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/kids/c77b708a-3493-44da-a5aa-e9aee9954435.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/old/30558637-b101-425e-beeb-b3c464d3a200.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/old/50s Style 1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/old/59db61fa-00c5-4260-a455-e97b1e659717.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/old/5e80029d-c459-436e-ab40-1d1d1f1db4fe.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/old/Eamonn Holmes dresses Ruth Langsford as a sexy secretary.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/old/Everything matches the skirt!! Love it!!.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/old/Fashion For Women Over 50 _ Dresses For 50 Year….jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/old/Festive dressing ideas and an evening at John Lewis &amp; Partners - Midlifechic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/old/Helen Mirren in Black Suede Boots.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/old/How to Style a Chambray Shirt After 50 - Cindy Hattersley Design.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/old/Over-50 Women With Ridiculously Good Style.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/old/Pencil skirt styling part 2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/old/Pia Gronning.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/old/The Most Stunning Models Over Age 70.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/old/Theresa May_ A Political Life In Pictures.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/old/This with This.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/old/WHO SAYS THAT LOUNGEWEAR HAS TO BE PANTS - 50 IS NOT OLD.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/old/What to wear to the office_ three looks for women over 50 if you want to up your professional game.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/old/Women's guide to skirts for the fall_ definitive fashion source for fall style (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/old/bohofashionover50advancedstyle.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/old/double dip _ Style At A Certain Age.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/old/modern classics _ Style At A Certain Age.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/old/read it _ Style At A Certain Age.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/old/trends come and go, but true style is ageless.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/old/urban stripes _ Style At A Certain Age.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/young/105 Totally Stunning Rose Flower Midi Skirts Ideas 01 - Best Home Design Ideas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/young/20+ Fall Outfits for Women To Copy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/young/30 Professional Business Attire for Young Women 35 - Best Home Design Ideas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/young/50 Professional Women Work Outfits Ideas You Must Try 16 005 - Best Home Design Ideas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/young/7 Style Tips On How To Keep Your Work Wardrobe Fashionable - Styling tips fashion.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/young/91 Best Summer Workwear Outfit Ideas 23 - Best Home Design Ideas.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/young/9dd3f444-d280-47dc-9f71-8bbfbc32c887.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/young/A young woman poses in a purple pleated miniskirt with a yellow top___.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/young/Aztec Scarf Navy White Tribal Scarf So Soft Lightweight Spring Summer Women Fashion Accessories Spring Celebrations Trend Gift Ideas For Her.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/young/Classy Serwaa Amihere.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/young/Cute A Line Checked High Thigh Split Mini Skirt For Young Women.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/young/Details_ Leopard print High-rise waist Elasticized….png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/young/Dressing for Success_ The Do’s and Don’ts.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/young/How to Wear Ankle Boots with Skirts.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/young/Ingimage _ Stock Image Details_ ISS_4253_00664 - happy young woman holds mobile phone, she is near a building.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/young/Luda Skirt - White.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/young/NEW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/young/Petal and Pup Gravity Skirt.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/young/Ralph Lauren Spring 2006 Runway Pictures.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/young/Stock Photo - Young woman sitting on sofa drinking tea from cup in a office.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/young/Street Style (3).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/young/The Minimal classic outfit fashion board for young….jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/young/Vogue cute young women office work career dressy skirt suit pant suit - TiaNex.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/young/What young women think in 2020.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/young/Women's winter wool maxi skirt Vintage inspired Circle _ Etsy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/young/b_Young mini skirt _ ASOS.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/skirts/young/clothes for women in 20s young professional chic.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/ss1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/ss2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/ss3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/ss4.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sss1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sss2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sss3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sss4.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/su1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/su2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/su3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/su4.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/summer banner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/summer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/summer1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/summer11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/summer12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/summerC.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/summer_relax-wallpaper-3840x1440.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/suu1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/suu2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/suu3.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/suu4.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/t1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/t10.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/t11.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/t12.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/t13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/t14.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/t15.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/t2.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/t3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/t4.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/t5.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/t6.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/t7.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/t8.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/t9.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/kids/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/kids/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/kids/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/kids/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/kids/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/kids/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/kids/15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/kids/16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/kids/17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/kids/18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/kids/19.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/kids/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/kids/20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/kids/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/kids/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/kids/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/kids/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/kids/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/kids/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/kids/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/young/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/young/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/young/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/young/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/young/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/young/14.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/young/15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/young/16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/young/17.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/young/18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/young/19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/young/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/young/20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/young/21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/young/22.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/young/23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/young/24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/young/25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/young/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/young/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/young/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/young/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/young/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/young/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tees_and_tops/young/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/tt1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uu1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uu2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uu3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/uu4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/vv.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/w.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/winter.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/winter1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/winter22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/woman-3716986-croped.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/woman-3716986.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/woman-5467838.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/wp5052442-girl-and-winter-wallpapers.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/wq.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/ww.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/ww1.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/xx1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/yy1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/zz.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/debug.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/single_collection.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/About.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/Collection_blueItems.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/Collection_redItems.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/Sale.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/appoinment.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/blouse.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/blouse_kids.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/blouse_young.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/brands.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/brands1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/brands2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/brands3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/coat.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/coat_kids.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/coat_old.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/coat_young.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/contactUs.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/coupn.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/debug.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/fab_collection.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/feedback_form.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/frock.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/frock_kids.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/frock_young.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/header&amp;footer.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index copy.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/item_details.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/jacket.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/jacket_coat.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/jacket_kids.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/jacket_young.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/journals.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/kids_pants.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/knitwear.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/knitwear_kids.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/knitwear_young.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/ladies_pants.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/mom&amp;baby_Knitwear.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/new_arrivals.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/new_arrivals_kids.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/new_arrivals_young.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/order_template.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/pants.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/personalStyle.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/place_order.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/place_order_1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/singleCollection.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/single_journal1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/single_journal2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/skirt.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/skirt_kids.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/skirt_old.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/skirt_young.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/summer_collection.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/top_collection.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/tops_and_tees.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/tops_and_tees_kids.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/tops_and_tees_young.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/winter_collection.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/appointment.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/brands1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/brands2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/collection.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/contactUs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/coupon.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/details.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/feedback_form.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/header&amp;footer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/header_footer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/header_styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/home1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/isuri.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/journals.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/knitwear1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/knitwear2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/login.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/minindu.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/order.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/pants.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/place_order.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/single_collection.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/single_journal.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +880,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager">
@@ -46,6 +902,8 @@
       <option name="presentableId" value="Default" />
       <updated>1602742450746</updated>
       <workItem from="1602742451775" duration="341000" />
+      <workItem from="1602861448768" duration="253000" />
+      <workItem from="1602861725295" duration="33000" />
     </task>
     <servers />
   </component>
